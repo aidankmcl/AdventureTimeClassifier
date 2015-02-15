@@ -16,7 +16,8 @@ class Scraper:
         print "getting started"
         self.base_url = 'http://adventuretime.wikia.com'
         # urls = self.get_urls()
-        print self.get_lines('http://adventuretime.wikia.com/wiki/Slumber_Party_Panic/Transcript')
+        lines = self.get_lines('http://adventuretime.wikia.com/wiki/Slumber_Party_Panic/Transcript')
+        print lines
 
     # # Main beef
     def get_urls(self):
@@ -31,6 +32,7 @@ class Scraper:
         page = requests.get(url).content
         soup = BeautifulSoup(page, 'lxml')
         lines = [self.strip(line.text) for line in soup.find_all('dd') if ':' in line.text and line.text != None]
+        lines.sort()
         return lines
 
     # # Helpers
@@ -53,10 +55,12 @@ class Scraper:
         quotation marks and parenthesis for ("translated text").
         """
         line = self.ununicode(line)
-        start = self.index_character(line, '[')
-        end = self.index_character(line, ']')
-        for cut_start, cut_end in zip(start, end): # goes through and cuts out actions
-            line = ''.join([line[:cut_start], line[cut_end+1:]]) # chunk by chunk
+        starts = self.index_character(line, '[')
+        ends = self.index_character(line, ']')
+        for placeholder_start, placeholder_end in zip(starts, ends): # goes through and cuts out actions
+            start = line.index('[')
+            end = line.index(']')
+            line = ''.join([line[0:start], line[end+1:]]) # chunk by chunk
         line = line.translate(None, '("")\n~') # translate to None strips all occurences of characters, and it's faster than re!
         return line
 
