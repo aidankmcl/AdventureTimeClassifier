@@ -10,4 +10,4 @@ Just finished MVP of scraper that automates the grabbing of transcript text, am 
 
 [Passage](https://github.com/IndicoDataSolutions/Passage) is a library made by Alec Radford for creating predictive models that deal with text. It uses machine learning (Recurrent Neural Networks specifically) to analyze text and determine similarity between what our homies in the show say and what we do.
 
-Interested in getting involved in this or future projects? Suggestions? Daps and pounds? hmu at aidankmcl@gmail.com
+Interested in getting involved in this or future projects? Suggestions? Daps and pounds? [hmu](aidankmcl@gmail.com)
