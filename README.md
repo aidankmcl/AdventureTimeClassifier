@@ -12,6 +12,6 @@ Turns out the entirety of speech in the show is smaller than expected, about 194
 Just finished MVP of scraper that automates the grabbing of transcript text, am now working on organizing data collection/labelling and have yet to start playing with [Indico](http://www.indico.io)'s model creation tool called [Passage](https://github.com/IndicoDataSolutions/Passage), authored by Alec Radford.
 
 ## ?
-This is my first project that touches even a high level interface to ML, so it's going to be generally exploratory for me. If I can get my bearings and build something that works decently, I want to help others by making tutorials as I have been trying to document the process closely. Long ways to go but up's the only road.
+This is my first project that touches even a high level interface to ML, so it's going to be generally exploratory for me. If I can get my bearings and build something that works decently, I want to help others by making tutorials as I have been trying to document the process closely. Long way to go but up's the only road.
 
 Interested in getting involved in this project? Suggestions? Definitely feel free to open a pull request or tweet [@illustratedDan](https://twitter.com/illustratedDan)
