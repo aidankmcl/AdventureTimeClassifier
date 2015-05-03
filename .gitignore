@@ -1,5 +1,7 @@
 # individual files
 scratch.py
+save_test.pkl
+pickle/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
