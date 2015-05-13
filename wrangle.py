@@ -8,7 +8,7 @@ from collections import Counter
 class Wrangler:
     """
     For doing whatever pre-processing that needs to happen
-    before feeding to Passage
+    before fun data sciencey things
     """
 
     def __init__(self, min_lines, percent_train=0.8, max_lines=1000):
@@ -47,12 +47,12 @@ class Wrangler:
         key_label = self.label_dict[fname]
         total_lines = self.count_lines(data_dir+fname)
         train_end = math.floor(total_lines*self.percent_train)
-        
+
         iterations = int(math.floor(self.max_lines/train_end))
-        
+
         if train_end > self.max_lines:
             train_end = self.max_lines
-        
+
         with open(data_dir+fname, 'r') as f:
             for i, line in enumerate(f):
                 for num in range(iterations+1):
@@ -63,9 +63,8 @@ class Wrangler:
                         self.test.append(line)
                         self.test_labels.append(key_label)
 
-
     def label_matching(self):
-        converter = {name: i for i,name in enumerate(self.tops)}
+        converter = {name: i for i, name in enumerate(self.tops)}
         return converter
 
     def get_data(self, names):
@@ -73,5 +72,3 @@ class Wrangler:
 
         for name in names:
             self.get_file_lines(name)
-   
-

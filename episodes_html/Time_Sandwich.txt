@@ -1,0 +1,1816 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="Adventure Time Wiki,adventuretimewithfinnandjake,Time Sandwich,Adventure Time Staff,Elizabeth Ito,Nick Jennings,Kent Osborne,Pendleton Ward,Jack Pendarvis,Adam Muto,Cole Sanchez,List of episodes,Earth &amp; Water" />
+<meta name="description" content="&amp;quot;Time Sandwich&amp;quot; is the thirty-third episode in the fifth season of Adventure Time. It is the one..." />
+<meta name="google-site-verification" content="7UL9ydLg15VoD8HhnV6Au5qkxQgqZQ9yS3_Kh1W-SxE" />
+<link rel="canonical" href="http://adventuretime.wikia.com/wiki/Time_Sandwich" />
+<link rel="apple-touch-icon" href="http://img4.wikia.nocookie.net/__cb33/adventuretimewithfinnandjake/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://img4.wikia.nocookie.net/__cb20120516031341/adventuretimewithfinnandjake/images/6/64/Favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Adventure Time Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://adventuretime.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="Adventure Time Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Time Sandwich - The Adventure Time Wiki. Mathematical!</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1430528109/sasses/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20150313122834%252Fadventuretimewithfinnandjake%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1900%26color-body%3D%252383c0e6%26color-body-middle%3D%252383c0e6%26color-buttons%3D%2523006cb0%26color-header%3D%25232878b6%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D92%26widthType%3D2/skins/oasis/css/oasis.scss,extensions/wikia/MonetizationModule/styles/MonetizationModuleNoBreakpoints.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/share.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://adventuretime.wikia.com/__load/-/cb%3D1430528109%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: adventuretimewithfinnandjake:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Enter the chat!","chat-start-a-chat":"Open the chat!","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live! Chat","chat-edit-count":"$1 edits \x3cimg src=\"http://images2.wikia.nocookie.net/runescape/images/2/21/1x1-pixel.png\" onload=\"if ($(this).is(\'header img\')\x26\x26$(\'script[src*=\\\'Chat.js/load.js\\\']\').length==0) {var b=document.createElement(\'script\');b.setAttribute(\'src\',\'http://runescape.wikia.com/index.php?title=MediaWiki:Chat.js/load.js\x26action=raw\x26ctype=text/javascript\');b.setAttribute(\'type\',\'text/javascript\');document.getElementsByTagName(\'head\')[0].appendChild(b);}\" /\x3e","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":216968,"pageIsArticle":true,"pageName":"Time_Sandwich","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=18-24;age=18-34;age=teen;age=kids;gnre=cartoon;gnre=comedy;media=tv;tv=cn","wikiDbName":"adventuretimewithfinnandjake","wikiDirectedAtChildren":true,"wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":[],"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[129,100024,100043,100044,100056,100057,100058,100059,100428,100455],
+wgWikiFactoryTagNames=["entertainment","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1430528109",
+wgDBname="adventuretimewithfinnandjake",
+wgCityId="24357",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=216968,
+wgCategories=["Episodes","Season 5"],
+wgPageName="Time_Sandwich",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_episode",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1430528109",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s34","php_version":"5.6.4","wiki":"adventuretimewithfinnandjake","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1430528109&amp;c=24357&amp;lc=en&amp;lid=75&amp;x=adventuretimewithfinnandjake&amp;y=c1&amp;u=0&amp;a=216968&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1430528109&amp;c=24357&amp;lc=en&amp;lid=75&amp;x=adventuretimewithfinnandjake&amp;y=c1&amp;u=0&amp;a=216968&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1430528109%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1430528109%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1430528109/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Adventure Time Wiki" />
+	<meta property="og:title" content="Time Sandwich" />
+	<meta property="og:description" content="&quot;Time Sandwich&quot; is the thirty-third episode in the fifth season of Adventure Time. It is the one hundred and thirty-seventh episode overall. Finn and Jake must decipher Magic Man's riddle in order to take back what he stole: the most delicious sandwich Jake has ever made." />
+	<meta property="og:url" content="http://adventuretime.wikia.com/wiki/Time_Sandwich" />
+	<meta property="og:image" content="http://img4.wikia.nocookie.net/__cb20130909203138/adventuretimewithfinnandjake/images/e/eb/Tumblr_msvizj9OiT1qbbfzjo1_500.jpg" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Time_Sandwich  TOC_hide wikinav2 skin-oasis background-fixed">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fadventuretime.wikia.com%2Fwiki%2FTime_Sandwich%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatchOld"), // new name
+		require.optional("ext.wikia.adEngine.amazonMatchOld")  // old name
+	], function (geo, globals, amazon1, amazon2) {
+		var ac = globals["wgAmazonMatchOldCountries"],
+			amazon = amazon1 || amazon2;
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"), // new name
+		require.optional("ext.wikia.adEngine.amazonMatch")  // old name
+	], function (geo, globals, amazon1, amazon2) {
+		var ac = globals["wgAmazonMatchCountries"],
+			amazon = amazon1 || amazon2;
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script id="analytics-provider-rubicon-rtp">
+	require([
+		'wikia.geo',
+		'wikia.instantGlobals',
+		require.optional('ext.wikia.adEngine.lookup.rubiconRtp'), // new name
+		require.optional('ext.wikia.adEngine.rubiconRtp')         // old name
+	], function (geo, instantGlobals, rtp1, rtp2) {
+		var rtpCountries = ["US","GB","AU","NZ","CA","DE"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			var rtp = rtp1 || rtp2;
+			rtp.call({"disabled":false,"oz_site":"7450\/41686","oz_zone":"175094","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["HOME_TOP_LEADERBOARD","TOP_LEADERBOARD","CORP_TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+	<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com"
+				class="wikia-logo"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+			</a>
+		</div>
+		<div class="hubs-container table-cell" id="hubsEntryPoint">
+			<a class="hubs-entry-point"></a>
+<div class="hubs-menu-wrapper">
+	<nav id="hubs" class="hubs-menu global-nav-dropdown">
+		<ul class="hub-list">
+							<li>
+											<a data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub" class="comics hub-link ">
+							<span class="icon"></span>
+							<span class="label">Comics</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub" class="tv hub-link  active">
+							<span class="icon"></span>
+							<span class="label">TV</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub" class="movies hub-link ">
+							<span class="icon"></span>
+							<span class="label">Movies</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub" class="music hub-link ">
+							<span class="icon"></span>
+							<span class="label">Music</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub" class="books hub-link ">
+							<span class="icon"></span>
+							<span class="label">Books</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub" class="games hub-link ">
+							<span class="icon"></span>
+							<span class="label">Games</span>
+						</a>
+									</li>
+							<li>
+											<a data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub" class="lifestyle hub-link ">
+							<span class="icon"></span>
+							<span class="label">Lifestyle</span>
+						</a>
+									</li>
+					</ul>
+		<div class="hub-links">
+				<div class="hub-menu-section tv-links active">
+		<div class="hub-menu-columns">
+												<ul>
+						<li><strong>HOT</strong></li>
+																					<li>
+									<a href="http://ow.ly/KVdGB">iZombie</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/KVdHF">Better Call Saul</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/KVdRW">Unbreakable Kimmy Schmidt</a>
+								</li>
+																		</ul>
+									<ul>
+						<li><strong>ANIME</strong></li>
+																					<li>
+									<a href="http://ow.ly/KVdT7">Seraph of the End</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/KVdUm">Shokugeki no SOMA</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/KVdVx">Diamond no Ace</a>
+								</li>
+																		</ul>
+									<ul>
+						<li><strong>COMING SOON</strong></li>
+																					<li>
+									<a href="http://ow.ly/KVdWV">Marvel’s Daredevil</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/KVdYv">Orphan Black</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/KVdZh">Game of Thrones</a>
+								</li>
+																		</ul>
+									<ul>
+						<li><strong>SOCIAL</strong></li>
+																					<li>
+									<a href="http://ow.ly/HnQ1l">Community Central</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/Hl0Rx">Follow Wikia on Facebook</a>
+								</li>
+															<li>
+									<a href="http://ow.ly/Hl0UL">Follow Wikia on Twitter</a>
+								</li>
+																		</ul>
+									</div>
+		<a class="more" href="http://tvhub.wikia.com/wiki/TV_Hub">More TV</a>
+	</div>
+		</div>
+	</nav>
+</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://adventuretime.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search within Adventure Time Wiki..." data-search-url="http://adventuretime.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search within Adventure Time Wiki..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell">
+	<li class="account-navigation-first-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Time_Sandwich" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">				<div class="avatar-container anon-avatar-placeholder">
+									</div>
+			</a>
+							<span class="sign-in-label">Sign in</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+		</div>
+		<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Sign up</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Time_Sandwich">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+				<div class="start-wikia-container table-cell">
+			<a href="http://www.wikia.com/Special:CreateNewWiki"
+			   class="start-wikia"
+			   title="Start a wikia"
+			   data-id="start-wikia">
+				<span>Start a wikia</span>
+			</a>
+		</div>
+			</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h1 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/Adventure_Time_with_Finn_and_Jake_Wiki">
+					<img src="http://img4.wikia.nocookie.net/__cb33/adventuretimewithfinnandjake/images/8/89/Wiki-wordmark.png" alt="Adventure Time with Finn and Jake Wiki"  width="250" height="65" >
+			</a>
+</h1>
+    <nav class="WikiNav">
+    	        <h1>Adventure Time with Finn and Jake Wiki Navigation</h1>
+        		<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Maps" data-canonical="maps">Maps</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Category:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Main_Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Marceline">Marceline</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Bubblegum">Princess Bubblegum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Flame_Princess">Flame Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ice_King">Ice King</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake">Jake</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lumpy_Space_Princess">Lumpy Space Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lady_Rainicorn">Lady Rainicorn</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Princesses">Princesses<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Bubblegum">Princess Bubblegum</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Flame_Princess">Flame Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lumpy_Space_Princess">Lumpy Space Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghost_Princess_(character)">Ghost Princess (character)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Embryo_Princess">Embryo Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Princess_Princess">Princess Princess Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jungle_Princess">Jungle Princess</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Minor_Characters">Minor Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Snail">Snail</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Susan_Strong_(character)">Susan Strong (character)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ghost_Princess_(character)">Ghost Princess (character)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Embryo_Princess">Embryo Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jermaine">Jermaine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Princess_Princess_Princess">Princess Princess Princess</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jungle_Princess">Jungle Princess</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Species">Species<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Candy_People">Candy People</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Humans">Humans</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hyooman_tribe">Hyooman tribe</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lub_Glubs">Lub Glubs</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Lumpy_Space_People">Lumpy Space People</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Penguins">Penguins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Why-wolves">Why-wolves</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_episodes">List</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_1">Season 1<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Slumber_Party_Panic">Slumber Party Panic</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Evicted!">Evicted!</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_is_Life%3F">What is Life?</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Henchman">Henchman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Enchiridion!_(episode)">The Enchiridion! (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/His_Hero">His Hero</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Duke">The Duke</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_2">Season 2<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mortal_Recoil">Mortal Recoil</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/It_Came_from_the_Nightosphere">It Came from the Nightosphere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Go_With_Me">Go With Me</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Heat_Signature_(episode)">Heat Signature (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Real_You">The Real You</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Susan_Strong_(episode)">Susan Strong (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mortal_Folly">Mortal Folly</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_3">Season 3<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fionna_and_Cake">Fionna and Cake</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Incendium">Incendium</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/What_Was_Missing">What Was Missing</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Marceline%27s_Closet">Marceline's Closet</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Memory_of_a_Memory">Memory of a Memory</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Dad%27s_Dungeon">Dad's Dungeon</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Creeps">The Creeps</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_4">Season 4<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hot_to_the_Touch">Hot to the Touch</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/You_Made_Me">You Made Me</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Return_to_the_Nightosphere">Return to the Nightosphere</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Burning_Low">Burning Low</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Daddy%27s_Little_Monster">Daddy's Little Monster</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Five_Short_Graybles">Five Short Graybles</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hug_Wolf">Hug Wolf</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_5">Season 5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Bad_Little_Boy">Bad Little Boy</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake_the_Dog_(episode)">Jake the Dog (episode)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/All_the_Little_People">All the Little People</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wizards_Only,_Fools">Wizards Only, Fools</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jake_the_Dad">Jake the Dad</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Davey">Davey</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Simon_%26_Marcy">Simon & Marcy</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Season_6">Season 6<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/James_II">James II</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Escape_from_the_Citadel">Escape from the Citadel</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wake_Up">Wake Up</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Food_Chain">Food Chain</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Tower">The Tower</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Sad_Face">Sad Face</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Breezy">Breezy</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Category:Content">Misc</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Places">Locations<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Land_of_Ooo">Land of Ooo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fire_Kingdom">Fire Kingdom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Tree_Fort">Tree Fort</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Candy_Kingdom">Candy Kingdom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Nightosphere_(location)">Nightosphere (location)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ice_Kingdom">Ice Kingdom</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Marceline%27s_house">Marceline's house</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Objects">Objects<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Finn%27s_swords">Finn's swords</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Finn%27s_hat">Finn's hat</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/The_Enchiridion_(book)">The Enchiridion (book)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Demon_Blood_Sword">Demon Blood Sword</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hambo">Hambo</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Ax_bass">Ax bass</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Card_Wars_(game)">Card Wars (game)</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Music">Music<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Theme_Song">Adventure Time Theme Song</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Fry_Song">Fry Song</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/I%27m_Just_Your_Problem">I'm Just Your Problem</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Puncha_yo_Buns">Puncha yo Buns</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/My_Best_Friends_in_the_World">My Best Friends in the World</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Ending_Theme">Adventure Time Ending Theme</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/House_Hunting_Song">House Hunting Song</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Events">Events<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Mushroom_War">Mushroom War</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rainicorn-Dog_Wars">Rainicorn-Dog Wars</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cloud_Hunt">Cloud Hunt</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Premonition_dream">Premonition dream</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Wizard_Battle_(event)">Wizard Battle (event)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Cameladabalawabapp">Cameladabalawabapp</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Drop_Ball">Drop Ball</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Crew">Crew<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Natasha_Allegri">Natasha Allegri</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Niki_Yang">Niki Yang</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Rebecca_Sugar">Rebecca Sugar</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adam_Muto">Adam Muto</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Phil_Rynda">Phil Rynda</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Steve_Little">Steve Little</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Patrick_McHale">Patrick McHale</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Voice_Actors">Voice Actors<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Pendleton_Ward">Pendleton Ward</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Olivia_Olson">Olivia Olson</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Jeremy_Shada">Jeremy Shada</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Niki_Yang">Niki Yang</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Zack_Shada">Zack Shada</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/John_DiMaggio">John DiMaggio</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Hynden_Walch">Hynden Walch</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Category:Real-World_Objects">Other media<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/DVD_Releases">DVD Releases</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Toys">Adventure Time Toys</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_(comic)">Adventure Time (comic)</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/References_in_other_media">References in other media</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Category:Real_world_games">Video games</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Adventure_Time_Wiki:Community_Portal">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:User_Rights">Admins<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:User_Rights">List of Admins</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Nominations_for_Rights">Nominations for rights</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:Community_messages">Community messages</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:RecentChanges">Recent changes<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Blog:Recent_posts">Recent blog posts</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Special:RecentChanges">Recent changes</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:Rules">Rules<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Rules">Rules</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Manual_of_Style">Manual of Style</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Adventure_Time_Wiki:Code_of_Conduct">Code of Conduct</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:Sand_Kingdom">Sandbox</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Adventure_Time_Wiki:FAQ%27S">FAQ's</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>    </nav>
+	    <div class="buttons">
+		<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:Maps"  data-id="maps"   class="wikia-maps-create-map">Create a Map</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+					<a href="#" class="wikia-button share-button secondary"  data-id="shareButton"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+    </div>
+	    <div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent changes</a>    </div>
+</header>
+
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Time Sandwich</h1>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>2,439</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=Time_Sandwich&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Time_Sandwich?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="/wiki/Talk:Time_Sandwich" class="wikia-button comments secondary talk" rel="nofollow" data-id="comment"> Talk<span class="commentsbubble">42</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><table class="infobox" border="1" cellpadding="3" cellspacing="0" style="float: right; width: 250px; margin: 0 0 5px 1em; border: 1px #171717 solid; border-collapse: collapse; text-align: left; font-size: 90%">
+<tr>
+<td style="text-align: center; background: #9CF; font-size: 100%;" colspan="2"><font color="white"><b>"Time Sandwich"</b></font>
+</td></tr>
+<tr style="text-align:center; font-size: 100%;">
+<td colspan="2"> Season 5, episode 33<br /><div class="center"><div class="floatnone"><a href="http://img2.wikia.nocookie.net/__cb20130910061429/adventuretimewithfinnandjake/images/d/d9/Time_Sandwich_Title_Card.png" 	class="image image-thumbnail" 	 	 	><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" 	 alt="Time Sandwich Title Card"  	class="lzy lzyPlcHld " 	 	data-image-key="Time_Sandwich_Title_Card.png" 	data-image-name="Time Sandwich Title Card.png" 	 data-src="http://img2.wikia.nocookie.net/__cb20130910061429/adventuretimewithfinnandjake/images/thumb/d/d9/Time_Sandwich_Title_Card.png/242px-Time_Sandwich_Title_Card.png"  	 width="242"  	 height="138"  	 	 	 onload="if(typeof ImgLzy===&#39;object&#39;){ImgLzy.load(this)}"  	><noscript><img src="http://img2.wikia.nocookie.net/__cb20130910061429/adventuretimewithfinnandjake/images/thumb/d/d9/Time_Sandwich_Title_Card.png/242px-Time_Sandwich_Title_Card.png" 	 alt="Time Sandwich Title Card"  	class="" 	 	data-image-key="Time_Sandwich_Title_Card.png" 	data-image-name="Time Sandwich Title Card.png" 	 	 width="242"  	 height="138"  	 	 	 	></noscript></a></div></div>
+</td></tr>
+<tr valign="center;" style="font-size: 90%;">
+<th> Production code:
+</th><td> 1014-139
+</td></tr>
+<tr valign="center;" style="font-size: 90%;">
+<th> Airdate:
+</th><td> September 9, 2013
+</td></tr>
+<tr>
+<td style="text-align: center; background: #9CF; font-size: 100%;" colspan="2"><font color="white"><b><a href="/wiki/Adventure_Time_Staff" title="Adventure Time Staff">Credits</a></b></font>
+</td></tr>
+<tr valign="center;" style="font-size: 90%;">
+<th> Director:
+</th><td> <a href="/wiki/Elizabeth_Ito" title="Elizabeth Ito">Elizabeth Ito</a> (supervising)<br /><a href="/wiki/Nick_Jennings" title="Nick Jennings">Nick Jennings</a> (art)
+</td></tr>
+<tr valign="center;" style="font-size: 90%;">
+<th> Story:
+</th><td> <a href="/wiki/Kent_Osborne" title="Kent Osborne">Kent Osborne</a><br /><a href="/wiki/Pendleton_Ward" title="Pendleton Ward">Pendleton Ward</a><br /><a href="/wiki/Jack_Pendarvis" title="Jack Pendarvis">Jack Pendarvis</a><br /><a href="/wiki/Adam_Muto" title="Adam Muto">Adam Muto</a>
+</td></tr>
+<tr valign="center;" style="font-size: 90%;">
+<th> Written &amp;<br />storyboarded by:
+</th><td> <a href="/wiki/Cole_Sanchez" title="Cole Sanchez">Cole Sanchez</a><br /><a href="/wiki/Kent_Osborne" title="Kent Osborne">Kent Osborne</a>
+</td></tr>
+<tr>
+<td style="text-align: center; background: #9CF; font-size: 100%;" colspan="2"><font color="white"><b><a href="/wiki/List_of_episodes" title="List of episodes">Episodes</a></b></font>
+</td></tr>
+<tr style="text-align:center; font-size:90%;" valign="top">
+<td style="width: 125px;"><b>Previous</b><br />"<a href="/wiki/Earth_%26_Water" title="Earth &amp; Water">Earth &amp; Water</a>"
+</td><td style="width: 125px;"><b>Next</b><br />"<a href="/wiki/The_Vault" title="The Vault">The Vault</a>"
+</td></tr></table>
+<table class="infobox" border="1" cellpadding="3" cellspacing="0" style="float: right; width: 250px; margin: 0 0 5px 1em; border: 1px #171717 solid; border-collapse: collapse; text-align: left; font-size: 90%">
+<tr>
+<td style="text-align: center; background: #FEA;" colspan="2"> <b><a href="/wiki/Time_Sandwich/Transcript" title="Time Sandwich/Transcript">Read transcript</a></b>
+</td></tr></table>
+<p>"<b>Time Sandwich</b>" is the thirty-third episode in the fifth season of <i><a href="/wiki/Adventure_Time" title="Adventure Time">Adventure Time</a></i>. It is the one hundred&#160;and&#160;thirty-seventh episode overall.
+</p>
+<nav id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a href="#" class="internal" id="togglelink" data-show="show" data-hide="hide">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Synopsis">Synopsis</span></h2>
+<p><a href="/wiki/Finn" title="Finn">Finn</a> and <a href="/wiki/Jake" title="Jake">Jake</a> must decipher <a href="/wiki/Magic_Man" title="Magic Man">Magic Man</a>'s riddle in order to take back what he stole: <a href="/wiki/Jake%27s_most_delicious_sandwich" title="Jake's most delicious sandwich">the most delicious sandwich Jake has ever made</a>.
+</p>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write(
+            '<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" ' +
+            'data-mon-type="amazon_video" data-mon-slot="in_content">' +
+            '<div class="affiliate" data-mon-pid="B0082CY39C" data-mon-ptag="adventuretime-time_sandwich-24357-216968-B0082CY39C-piv-fl-npr-ic-f" ' +
+            'data-mon-pname="Adventure Time Volume 1"><div class="affiliate-header">' +
+            '<a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B0082CY39C/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=adventuretime-time_sandwich-24357-216968-B0082CY39C-piv-fl-npr-ic-f">' +
+            '<img  src="http://ecx.images-amazon.com/images/I/51t349aWF0L._SX320_SY240_.jpg"></a></div>' +
+            '<a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B0082CY39C/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=adventuretime-time_sandwich-24357-216968-B0082CY39C-piv-fl-npr-ic-f">' +
+            '<span class="product-title">Adventure Time Volume 1</span>' +
+            '<span class="product-detail">Season 1</span>' +
+            '<span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a>' +
+            '<div class="product-button non-prime">' +
+            '<a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B0082CY39C/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=adventuretime-time_sandwich-24357-216968-B0082CY39C-piv-fl-npr-ic-f"></a>' +
+            '<a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B0082CY39C/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=adventuretime-time_sandwich-24357-216968-B0082CY39C-piv-fl-npr-ic-f"></a>' +
+            '</div></div></aside>'
+        );
+    } else 
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_ffv mon_hub_tv mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="medium" ' +'data-font-face="veranda" ' +
+        ' data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#006cb0" data-color-url="#006cb0" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p>The episode starts out with <a href="/wiki/Finn" title="Finn">Finn</a> and <a href="/wiki/BMO" title="BMO">BMO</a> playing Finger Spread with blindfolds on. BMO wins the game. Jake comes in the room with groceries and tells the two of them to stay quiet while he gets into the "zone." He creates a sandwich that consists of cream cheese, dill, pickles, boiled eggs, cucumbers, tomatoes, onions, specially prepared meat, bacon, a bird from the window, tears (for salt), and lobster soul. Announcing it as the best sandwich made, Jake asks Finn and BMO if they want some, but Finn declines, saying he is cool with Jake eating the whole thing.
+</p><p>Just before Jake eats his sandwich, Magic Man appears and steals it away. Jake demands his sandwich back, and Magic Man says that he can only get it back by solving his riddle:
+</p>
+<center>
+<p><i>When your face shows 7:20,</i>
+</p><p><i>When green leaves turn brown,</i>
+</p><p><i>The only way forward is down.</i>
+</p><p><i>Then, you'll see, the wetter, the better.</i>
+</p>
+</center>
+<p>Jake complains that the "riddle" was more like word play at best, but Magic Man tells him that trying to "come up with something on the spot" is hard before "savoring the moment" and crashing backwards before creating a large bubble-shaped time field around him. Jake initially thinks that the time bubble froze Magic Man and the sandwich, but Finn tells him he is just moving in "super-slow motion." Finn points at Magic Man in the bubble, and they see a small drop of saliva dripping off his lip. They decide to try and get Jake's sandwich back before Magic Man hits the ground, which they assume is when he will take his first bite.
+</p><p>The two of them look inside the bubble, and in super slow-motion they say hi to each other and leave. They then ask BMO how long they were in there. When BMO says 5 hours, Finn and Jake are in shock, and they look at the bubble again. Magic Man is about halfway from the ground. BMO comes up with a plan to retrieve Jake's sandwich (which in reality is a plan to make a skateboard video) and ends up getting trapped in the time bubble as well. Jake reacts by saying that BMO lied to him. Finn decides to call <a href="/wiki/Princess_Bubblegum" title="Princess Bubblegum">Princess Bubblegum</a> while Jake tries to make another sandwich.
+</p><p>Princess Bubblegum says that the time bubble is made up of molasses-based bonds that will slow down anything inside as long as the molasses is at room temperature, and tries to use her "molasses warmer" to "get things moving." The "molasses warmer" enters the time bubble, but the explosion is also moving in slow motion, therefore making it useless. Dumbstruck, Princess Bubblegum calls <a href="/wiki/Marceline" title="Marceline">Marceline</a> over to try and help. Jake sadly returns, unable to make another sandwich, and meets up with the rest of the group as Marceline reveals that her plan is to turn into her demonic form and elbow drop into the bubble (leaving her trapped inside as well). Jake decided to speed up the grieving process by lighting up candles made with the bacon fat from his sandwich earlier. Finn tries to comfort him by calling someone else, but Jake stops him, telling him that it is over and that he never felt as sad as he does now, and walks into the time bubble while moving normally.
+</p><p>Finn points out that Jake is not slowing down in the bubble, and that being sad was the answer to the riddle, saying that 7:20 is sometimes called "a sad face." Jake starts to get frustrated (saying that nobody says that 7:20 is a sad face), but is reminded by Finn and Bubblegum that he needs to stay sad in order to get his sandwich back. Jake runs towards Magic Man to retrieve his sandwich, but starts to get happier as he gets closer, slowing him down. Jake tries to be sad again by imagining his funeral, but ends up getting angry because he imagines <a href="/wiki/Lady_Rainicorn" title="Lady Rainicorn">Lady Rainicorn</a> falling for <a href="/wiki/Candy_Person_3" title="Candy Person 3">Mr. Cupcake</a>. Snapping out of his fantasy, he re-imagines the scene with Mr. Cupcake talking to "Jake" at his gravestone. He "talks" with Mr. Cupcake, saying that he respects him and how he wants him to take care of Lady Rainicorn and his children if were dead, and ends up sobbing over their relationship which helps him reach his sandwich and end up punching Magic Man, destroying the time bubble. With the bubble gone, Magic Man hits the ground, gets elbowed by Marceline, and has his face run over by BMO's skateboard. Jake continues crying while celebrating his victory, and the episode ends with Jake finally taking a bite of his sandwich, saying how it is "so, so, so good."
+</p>
+<h2><span class="mw-headline" id="Characters">Characters</span></h2>
+<h3><span class="mw-headline" id="Major_characters">Major characters</span></h3>
+<ul><li><a href="/wiki/Finn" title="Finn">Finn</a>
+</li><li><a href="/wiki/Jake" title="Jake">Jake</a>
+</li><li><a href="/wiki/Magic_Man" title="Magic Man">Magic Man</a>
+</li></ul>
+<h3><span class="mw-headline" id="Minor_characters">Minor characters</span></h3>
+<ul><li><a href="/wiki/Princess_Bubblegum" title="Princess Bubblegum">Princess Bubblegum</a>
+</li><li><a href="/wiki/Marceline" title="Marceline">Marceline</a>
+</li><li><a href="/wiki/BMO" title="BMO">BMO</a>
+</li><li><a href="/wiki/Banana_Guard" title="Banana Guard">Banana Guards</a>
+</li><li><a href="/wiki/Snail" title="Snail">Snail</a>
+</li></ul>
+<h3><span class="mw-headline" id="Princess_Bubblegum.27s_holo-phone_contacts">Princess Bubblegum's holo-phone contacts</span></h3>
+<ul><li>LABD
+</li><li>Lala Man
+</li><li>Lemonlad
+</li><li>Lollipop Bad
+</li><li><a href="/wiki/Lorraine" title="Lorraine">Lorraine</a>
+</li><li>Lulu
+</li><li><a href="/wiki/Lumpy_Space_Princess" title="Lumpy Space Princess">Lumpy Space Princess</a>
+</li><li><a href="/wiki/Mannish_Man" title="Mannish Man">Mannish</a>
+</li><li>Mini Bagel
+</li></ul>
+<h3><span class="mw-headline" id="Jake.27s_imagination">Jake's imagination</span></h3>
+<ul><li><a href="/wiki/Lady_Rainicorn" title="Lady Rainicorn">Lady Rainicorn</a>
+</li><li><a href="/wiki/Candy_Person_3" title="Candy Person 3">Mr. Cupcake</a>
+</li><li><a href="/wiki/Jake_Jr." title="Jake Jr.">Jake Jr.</a>
+</li><li><a href="/wiki/T.V." title="T.V.">T.V.</a>
+</li><li><a href="/wiki/Kim_Kil_Whan" title="Kim Kil Whan">Kim Kil Whan</a>
+</li><li><a href="/wiki/Charlie" title="Charlie">Charlie</a>
+</li><li><a href="/wiki/Viola_(character)" title="Viola (character)">Viola</a>
+</li></ul>
+<h3><span class="mw-headline" id="Mentioned">Mentioned</span></h3>
+<ul><li><a href="/wiki/Ice_King" title="Ice King">Ice King</a>
+</li><li><a href="/wiki/Tree_Trunks_(character)" title="Tree Trunks (character)">Tree Trunks</a>
+</li><li><a href="/wiki/Shelby" title="Shelby">Shelby</a>
+</li><li><a href="/wiki/Prismo" title="Prismo">Prismo</a>
+</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li>Princess Bubblegum's <a href="/wiki/Holo_technology" title="Holo technology">holo-phone</a> displays the following contacts: LABD, Lala Man, Lemonlad, Lollipop Bad, <a href="/wiki/Lorraine" title="Lorraine">Lorraine</a>, Lulu, <a href="/wiki/Lumpy_Space_Princess" title="Lumpy Space Princess">Lumpy Space Princess</a>, <a href="/wiki/Mannish_Man" title="Mannish Man">Mannish</a>, <a href="/wiki/Marceline" title="Marceline">Marceline</a>, and Mini-Bagel.
+</li><li>In the promotional artwork, it is implied that Magic Man stole Jake's sandwich because he was hungry and had nothing to eat.
+</li><li>The outfit you see Marceline wearing you can see in her closet in the episode "Marceline's closet."
+</li></ul>
+<h3><span class="mw-headline" id="Cultural_references">Cultural references</span></h3>
+<ul><li>The radio Jake owns is a 1935–1936 Cathedral Radio. A Cathedral Radio is a type of early radio that is shaped like a cathedral's spire and windows, and it was most popular between the 1920–1930s, as well as during World War II.
+</li><li>In Jake's mind, the car that Mr. Cupcake drove with Lady Rainicorn is a 1967 Ferrari 275 GTB.
+</li><li>The steak in Jake's sandwich is prepared <a href="http://en.wikipedia.org/wiki/sous-vide" class="extiw exitstitial" title="wikipedia:sous-vide">sous-vide</a>, which involves sealing the meat inside an air-tight bag and cooking it submerged in water at a lower heat over several hours. This is to ensure that it the meat is cooked evenly on both the outside and inside.
+</li><li>Magic Man's magic being determined as molasses-based bonds may be a reference to the Slow spell in Dungeons and Dragons 3.5, wherein the material component for the slow-spell is a drop of molasses.
+</li></ul>
+<h3><span class="mw-headline" id="Episode_connections">Episode connections</span></h3>
+<ul><li>The pickles on Jake's sandwich are from <a href="/wiki/Prismo" title="Prismo">Prismo</a>, which were seen in "<a href="/wiki/Jake_the_Dog_(episode)" title="Jake the Dog (episode)">Jake the Dog</a>."
+</li><li>Magic Man defends his riddle by challenging Jake to come up with a good one "on the spot." Jake is unable to quickly create a good riddle in "<a href="/wiki/Rainy_Day_Daydream" title="Rainy Day Daydream">Rainy Day Daydream</a>," when he and Finn confront the imaginary <a href="/wiki/Riddle_Master" title="Riddle Master">Riddle Master</a>.
+</li><li>Jake comes to grips with his feelings about <a href="/wiki/Candy_Person_3" title="Candy Person 3">Mr. Cupcake</a> after the incidents in "<a href="/wiki/Video_Makers" title="Video Makers">Video Makers</a>" and "<a href="/wiki/All_the_Little_People" title="All the Little People">All the Little People</a>," where he nearly wins over <a href="/wiki/Lady_Rainicorn" title="Lady Rainicorn">Lady Rainicorn</a>.
+</li><li>Princess Bubblegum mentioning that she came over right away when she heard about Jake's sandwich may refer to "<a href="/wiki/Five_Short_Graybles" title="Five Short Graybles">Five Short Graybles</a>" when she makes the <a href="/wiki/Perfect_sandwich" title="Perfect sandwich">perfect sandwich</a> and <a href="/wiki/Cinnamon_Bun" title="Cinnamon Bun">Cinnamon Bun</a> does not even taste it.
+</li><li>Princess Bubblegum and Marceline seem to be friends now, after their recent amends in "<a href="/wiki/Sky_Witch" title="Sky Witch">Sky Witch</a>."
+</li><li>Princess Bubblegum wears the same lab coat she wears in "<a href="/wiki/Wizards_Only,_Fools" title="Wizards Only, Fools">Wizards Only, Fools</a>."
+<ul><li>In addition, her disbelief in magic is also presented again, in which she calls Magic Man's magic "molasses."
+</li></ul>
+</li><li>When <a href="/wiki/BMO" title="BMO">BMO</a> begins to calculate an answer, Jake states that it must be its new software. This is a reference to the new core system drivers installed in "<a href="/wiki/Be_More" title="Be More">Be More</a>" by <a href="/wiki/Moe" title="Moe">Moe</a>.
+</li><li>When Jake is making his sandwich, he sings the word "Bacon" as reference to "<a href="/wiki/Bacon_Pancakes" title="Bacon Pancakes">Bacon Pancakes</a>," a song he sings in "<a href="/wiki/Burning_Low" title="Burning Low">Burning Low</a>," which has turned into a popular internet meme. 
+</li></ul>
+<h3><span class="mw-headline" id="Errors">Errors</span></h3>
+<ul><li>On MSN and Time Warner Cable descriptions for "<a href="/wiki/Too_Old" title="Too Old">Too Old</a>," the info says, "When Magic Man steals Jake's delicious sandwich, Finn must defy laws of space and time to get it back," which is the synopsis for "Time Sandwich."
+</li><li>The river near Lady's house in Jake's imagination was flowing in a different direction, though this is maybe just his imagination.
+</li><li>When Magic Man tells his riddle, he says "When your face shows 7:20," but the clock clearly shows 7:25.
+</li></ul>
+<h3><span class="mw-headline" id="Production_notes">Production notes</span></h3>
+<ul><li>In an odd episode mix up, it was unknown if the episode had been cancelled or moved to a different date. According to Cartoon Network, after "Frost &amp; Fire" had aired, the schedule had been updated to show that "Too Old" was to be aired on August 12th, 2013. However, before the CN schedule was updated to include August 12th, MSN TV said that "Time Sandwich" would be aired on August 12th, 2013. On August 12th, 2013, "Too Old" was aired, and "Time Sandwich" was not.
+<ul><li>Regarding this issue, <a href="/wiki/Adam_Muto" title="Adam Muto">Adam Muto</a> confirmed that the episode would air some time after "Too Old."<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>
+</li><li>Both MSN TV and the CN schedule have confirmed that "Time Sandwich" will be aired on September 9th, 2013, nearly a month after it was originally thought to air. <sup id="cite_ref-msntvtime_1-0" class="reference"><a href="#cite_note-msntvtime-1">[2]</a></sup>
+</li></ul>
+</li><li>"Time Sandwich" was shown for the first time at Fan Expo on August 24. 2013, along with 5 other episodes chosen by the creators.
+</li></ul>
+<h3><span class="mw-headline" id="Storyline_analysis">Storyline analysis</span></h3>
+<h2><span class="mw-headline" id="Videos">Videos</span></h2>
+<div id="gallery-0" hash="9f28c43a90ad669ba6b79d9c6da22f3d" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="Adventure_Time-Time_sandwich_-28long_preview-29" style="position: relative; height:104px; width:185px;"><a class="image lightbox video video-thumbnail xsmall" href="/wiki/File:Adventure_Time-Time_sandwich_(long_preview)" title="Adventure Time-Time sandwich (long preview) (17 KB)" style="height:104px; width:185px;"><span class="duration">00:31</span><span class="play-circle"></span><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20140730190840/adventuretimewithfinnandjake/images/thumb/b/bf/Adventure_Time-Time_sandwich_%28long_preview%29/185px-Adventure_Time-Time_sandwich_%28long_preview%29.jpg" title="Adventure Time-Time sandwich (long preview) (17 KB)" class="thumbimage" alt="Adventure Time-Time sandwich (long preview)" data-video-name="Adventure Time-Time sandwich (long preview)" data-video-key="Adventure_Time-Time_sandwich_%28long_preview%29"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Adventure Time-Time sandwich (long preview) (17 KB)" class="thumbimage lzy lzyPlcHld" alt="Adventure Time-Time sandwich (long preview)" data-video-name="Adventure Time-Time sandwich (long preview)" data-video-key="Adventure_Time-Time_sandwich_%28long_preview%29" data-src="http://img3.wikia.nocookie.net/__cb20140730190840/adventuretimewithfinnandjake/images/thumb/b/bf/Adventure_Time-Time_sandwich_%28long_preview%29/185px-Adventure_Time-Time_sandwich_%28long_preview%29.jpg" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="title">Adventure Time-Time sandwich (long preview)</div><div class="lightbox-caption" style="width:185px;">Long Preview</div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1430528109/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1430528109/sass/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20150313122834%252Fadventuretimewithfinnandjake%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1900%26color-body%3D%252383c0e6%26color-body-middle%3D%252383c0e6%26color-buttons%3D%2523006cb0%26color-header%3D%25232878b6%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D92%26widthType%3D2/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<h3><span class="mw-headline" id="Official_art">Official art</span></h3>
+<div id="gallery-1" hash="63d5fd3c64af8a9c93422800cab3c1ba" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Tumblr_msvizj9OiT1qbbfzjo1_500-jpg" style="position: relative; height:185px; width:145px;"><a class="image lightbox" href="/wiki/File:Tumblr_msvizj9OiT1qbbfzjo1_500.jpg" title="Tumblr msvizj9OiT1qbbfzjo1 500.jpg (102 KB)" style="height:185px; width:145px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130909203138/adventuretimewithfinnandjake/images/thumb/e/eb/Tumblr_msvizj9OiT1qbbfzjo1_500.jpg/145px-Tumblr_msvizj9OiT1qbbfzjo1_500.jpg" title="Tumblr msvizj9OiT1qbbfzjo1 500.jpg (102 KB)" class="thumbimage" alt="Tumblr msvizj9OiT1qbbfzjo1 500" data-image-name="Tumblr msvizj9OiT1qbbfzjo1 500.jpg" data-image-key="Tumblr_msvizj9OiT1qbbfzjo1_500.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Tumblr msvizj9OiT1qbbfzjo1 500.jpg (102 KB)" class="thumbimage lzy lzyPlcHld" alt="Tumblr msvizj9OiT1qbbfzjo1 500" data-image-name="Tumblr msvizj9OiT1qbbfzjo1 500.jpg" data-image-key="Tumblr_msvizj9OiT1qbbfzjo1_500.jpg" data-src="http://img1.wikia.nocookie.net/__cb20130909203138/adventuretimewithfinnandjake/images/thumb/e/eb/Tumblr_msvizj9OiT1qbbfzjo1_500.jpg/145px-Tumblr_msvizj9OiT1qbbfzjo1_500.jpg" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Promotional Artwork</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="x33-jpg" style="position: relative; height:104px; width:185px; top:40.5px;"><a class="image lightbox" href="/wiki/File:33.jpg" title="33.jpg (155 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20140302125148/adventuretimewithfinnandjake/images/thumb/d/da/33.jpg/185px-33.jpg" title="33.jpg (155 KB)" class="thumbimage" alt="33" data-image-name="33.jpg" data-image-key="33.jpg"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="33.jpg (155 KB)" class="thumbimage lzy lzyPlcHld" alt="33" data-image-name="33.jpg" data-image-key="33.jpg" data-src="http://img4.wikia.nocookie.net/__cb20140302125148/adventuretimewithfinnandjake/images/thumb/d/da/33.jpg/185px-33.jpg" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Arabic - Title Card</div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1430528109/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1430528109/sass/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20150313122834%252Fadventuretimewithfinnandjake%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1900%26color-body%3D%252383c0e6%26color-body-middle%3D%252383c0e6%26color-buttons%3D%2523006cb0%26color-header%3D%25232878b6%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D92%26widthType%3D2/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h3><span class="mw-headline" id="Background_art">Background art</span></h3>
+<p><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1430528109/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1430528109/sass/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20150313122834%252Fadventuretimewithfinnandjake%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1900%26color-body%3D%252383c0e6%26color-body-middle%3D%252383c0e6%26color-buttons%3D%2523006cb0%26color-header%3D%25232878b6%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D92%26widthType%3D2/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+</p>
+<h3><span class="mw-headline" id="Screenshots">Screenshots</span></h3>
+<div id="gallery-3" hash="89a944be6e5c8116d911feec24a360f0" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Finn_and_BMO_playing_Finger_Spread-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Finn_and_BMO_playing_Finger_Spread.png" title="S5e33 Finn and BMO playing Finger Spread.png (1.08 MB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20130910125134/adventuretimewithfinnandjake/images/thumb/5/58/S5e33_Finn_and_BMO_playing_Finger_Spread.png/185px-S5e33_Finn_and_BMO_playing_Finger_Spread.png" title="S5e33 Finn and BMO playing Finger Spread.png (1.08 MB)" class="thumbimage" alt="S5e33 Finn and BMO playing Finger Spread" data-image-name="S5e33 Finn and BMO playing Finger Spread.png" data-image-key="S5e33_Finn_and_BMO_playing_Finger_Spread.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Finn and BMO playing Finger Spread.png (1.08 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Finn and BMO playing Finger Spread" data-image-name="S5e33 Finn and BMO playing Finger Spread.png" data-image-key="S5e33_Finn_and_BMO_playing_Finger_Spread.png" data-src="http://img2.wikia.nocookie.net/__cb20130910125134/adventuretimewithfinnandjake/images/thumb/5/58/S5e33_Finn_and_BMO_playing_Finger_Spread.png/185px-S5e33_Finn_and_BMO_playing_Finger_Spread.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_BMO_wins-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_BMO_wins.png" title="S5e33 BMO wins.png (262 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20130910125153/adventuretimewithfinnandjake/images/thumb/4/41/S5e33_BMO_wins.png/185px-S5e33_BMO_wins.png" title="S5e33 BMO wins.png (262 KB)" class="thumbimage" alt="S5e33 BMO wins" data-image-name="S5e33 BMO wins.png" data-image-key="S5e33_BMO_wins.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 BMO wins.png (262 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 BMO wins" data-image-name="S5e33 BMO wins.png" data-image-key="S5e33_BMO_wins.png" data-src="http://img3.wikia.nocookie.net/__cb20130910125153/adventuretimewithfinnandjake/images/thumb/4/41/S5e33_BMO_wins.png/185px-S5e33_BMO_wins.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_dancing-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_dancing.png" title="S5e33 Jake dancing.png (806 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20130911100405/adventuretimewithfinnandjake/images/thumb/9/93/S5e33_Jake_dancing.png/185px-S5e33_Jake_dancing.png" title="S5e33 Jake dancing.png (806 KB)" class="thumbimage" alt="S5e33 Jake dancing" data-image-name="S5e33 Jake dancing.png" data-image-key="S5e33_Jake_dancing.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake dancing.png (806 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake dancing" data-image-name="S5e33 Jake dancing.png" data-image-key="S5e33_Jake_dancing.png" data-src="http://img4.wikia.nocookie.net/__cb20130911100405/adventuretimewithfinnandjake/images/thumb/9/93/S5e33_Jake_dancing.png/185px-S5e33_Jake_dancing.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_snail-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_snail.png" title="S5e33 snail.png (1.25 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20131017002010/adventuretimewithfinnandjake/images/thumb/7/7a/S5e33_snail.png/185px-S5e33_snail.png" title="S5e33 snail.png (1.25 MB)" class="thumbimage" alt="S5e33 snail" data-image-name="S5e33 snail.png" data-image-key="S5e33_snail.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 snail.png (1.25 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 snail" data-image-name="S5e33 snail.png" data-image-key="S5e33_snail.png" data-src="http://img3.wikia.nocookie.net/__cb20131017002010/adventuretimewithfinnandjake/images/thumb/7/7a/S5e33_snail.png/185px-S5e33_snail.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Waving snail in Time Sandwich</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_completing_his_sandwich-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_completing_his_sandwich.png" title="S5e33 Jake completing his sandwich.png (1.21 MB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20131003013802/adventuretimewithfinnandjake/images/thumb/2/2e/S5e33_Jake_completing_his_sandwich.png/185px-S5e33_Jake_completing_his_sandwich.png" title="S5e33 Jake completing his sandwich.png (1.21 MB)" class="thumbimage" alt="S5e33 Jake completing his sandwich" data-image-name="S5e33 Jake completing his sandwich.png" data-image-key="S5e33_Jake_completing_his_sandwich.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake completing his sandwich.png (1.21 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake completing his sandwich" data-image-name="S5e33 Jake completing his sandwich.png" data-image-key="S5e33_Jake_completing_his_sandwich.png" data-src="http://img4.wikia.nocookie.net/__cb20131003013802/adventuretimewithfinnandjake/images/thumb/2/2e/S5e33_Jake_completing_his_sandwich.png/185px-S5e33_Jake_completing_his_sandwich.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Glowing_sandwich-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Glowing_sandwich.png" title="S5e33 Glowing sandwich.png (1.18 MB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20131003013802/adventuretimewithfinnandjake/images/thumb/3/38/S5e33_Glowing_sandwich.png/185px-S5e33_Glowing_sandwich.png" title="S5e33 Glowing sandwich.png (1.18 MB)" class="thumbimage" alt="S5e33 Glowing sandwich" data-image-name="S5e33 Glowing sandwich.png" data-image-key="S5e33_Glowing_sandwich.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Glowing sandwich.png (1.18 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Glowing sandwich" data-image-name="S5e33 Glowing sandwich.png" data-image-key="S5e33_Glowing_sandwich.png" data-src="http://img4.wikia.nocookie.net/__cb20131003013802/adventuretimewithfinnandjake/images/thumb/3/38/S5e33_Glowing_sandwich.png/185px-S5e33_Glowing_sandwich.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">The sandwich glows.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_faints-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_faints.png" title="S5e33 Jake faints.png (1.04 MB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130911095730/adventuretimewithfinnandjake/images/thumb/1/16/S5e33_Jake_faints.png/185px-S5e33_Jake_faints.png" title="S5e33 Jake faints.png (1.04 MB)" class="thumbimage" alt="S5e33 Jake faints" data-image-name="S5e33 Jake faints.png" data-image-key="S5e33_Jake_faints.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake faints.png (1.04 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake faints" data-image-name="S5e33 Jake faints.png" data-image-key="S5e33_Jake_faints.png" data-src="http://img1.wikia.nocookie.net/__cb20130911095730/adventuretimewithfinnandjake/images/thumb/1/16/S5e33_Jake_faints.png/185px-S5e33_Jake_faints.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Finn-2C_Jake-2C_and_BMO_admiring_sandwich-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Finn,_Jake,_and_BMO_admiring_sandwich.png" title="S5e33 Finn, Jake, and BMO admiring sandwich.png (1.09 MB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20131003013802/adventuretimewithfinnandjake/images/thumb/e/e7/S5e33_Finn%2C_Jake%2C_and_BMO_admiring_sandwich.png/185px-S5e33_Finn%2C_Jake%2C_and_BMO_admiring_sandwich.png" title="S5e33 Finn, Jake, and BMO admiring sandwich.png (1.09 MB)" class="thumbimage" alt="S5e33 Finn, Jake, and BMO admiring sandwich" data-image-name="S5e33 Finn, Jake, and BMO admiring sandwich.png" data-image-key="S5e33_Finn%2C_Jake%2C_and_BMO_admiring_sandwich.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Finn, Jake, and BMO admiring sandwich.png (1.09 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Finn, Jake, and BMO admiring sandwich" data-image-name="S5e33 Finn, Jake, and BMO admiring sandwich.png" data-image-key="S5e33_Finn%2C_Jake%2C_and_BMO_admiring_sandwich.png" data-src="http://img4.wikia.nocookie.net/__cb20131003013802/adventuretimewithfinnandjake/images/thumb/e/e7/S5e33_Finn%2C_Jake%2C_and_BMO_admiring_sandwich.png/185px-S5e33_Finn%2C_Jake%2C_and_BMO_admiring_sandwich.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic_Man_appears-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic_Man_appears.png" title="S5e33 Magic Man appears.png (1.2 MB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20131003013801/adventuretimewithfinnandjake/images/thumb/c/c2/S5e33_Magic_Man_appears.png/185px-S5e33_Magic_Man_appears.png" title="S5e33 Magic Man appears.png (1.2 MB)" class="thumbimage" alt="S5e33 Magic Man appears" data-image-name="S5e33 Magic Man appears.png" data-image-key="S5e33_Magic_Man_appears.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic Man appears.png (1.2 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic Man appears" data-image-name="S5e33 Magic Man appears.png" data-image-key="S5e33_Magic_Man_appears.png" data-src="http://img3.wikia.nocookie.net/__cb20131003013801/adventuretimewithfinnandjake/images/thumb/c/c2/S5e33_Magic_Man_appears.png/185px-S5e33_Magic_Man_appears.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Magic Man Returns</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic_Man-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic_Man.png" title="S5e33 Magic Man.png (1.4 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20140329165929/adventuretimewithfinnandjake/images/thumb/5/5f/S5e33_Magic_Man.png/185px-S5e33_Magic_Man.png" title="S5e33 Magic Man.png (1.4 MB)" class="thumbimage" alt="S5e33 Magic Man" data-image-name="S5e33 Magic Man.png" data-image-key="S5e33_Magic_Man.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic Man.png (1.4 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic Man" data-image-name="S5e33 Magic Man.png" data-image-key="S5e33_Magic_Man.png" data-src="http://img1.wikia.nocookie.net/__cb20140329165929/adventuretimewithfinnandjake/images/thumb/5/5f/S5e33_Magic_Man.png/185px-S5e33_Magic_Man.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic.png" title="S5e33 Magic.png (1.28 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329170752/adventuretimewithfinnandjake/images/thumb/2/2f/S5e33_Magic.png/185px-S5e33_Magic.png" title="S5e33 Magic.png (1.28 MB)" class="thumbimage" alt="S5e33 Magic" data-image-name="S5e33 Magic.png" data-image-key="S5e33_Magic.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic.png (1.28 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic" data-image-name="S5e33 Magic.png" data-image-key="S5e33_Magic.png" data-src="http://img2.wikia.nocookie.net/__cb20140329170752/adventuretimewithfinnandjake/images/thumb/2/2f/S5e33_Magic.png/185px-S5e33_Magic.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic2-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic2.png" title="S5e33 Magic2.png (1.32 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329170743/adventuretimewithfinnandjake/images/thumb/1/15/S5e33_Magic2.png/185px-S5e33_Magic2.png" title="S5e33 Magic2.png (1.32 MB)" class="thumbimage" alt="S5e33 Magic2" data-image-name="S5e33 Magic2.png" data-image-key="S5e33_Magic2.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic2.png (1.32 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic2" data-image-name="S5e33 Magic2.png" data-image-key="S5e33_Magic2.png" data-src="http://img2.wikia.nocookie.net/__cb20140329170743/adventuretimewithfinnandjake/images/thumb/1/15/S5e33_Magic2.png/185px-S5e33_Magic2.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic_Man_makes_a_portal-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic_Man_makes_a_portal.png" title="S5e33 Magic Man makes a portal.png (1.7 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20140329164722/adventuretimewithfinnandjake/images/thumb/8/8a/S5e33_Magic_Man_makes_a_portal.png/185px-S5e33_Magic_Man_makes_a_portal.png" title="S5e33 Magic Man makes a portal.png (1.7 MB)" class="thumbimage" alt="S5e33 Magic Man makes a portal" data-image-name="S5e33 Magic Man makes a portal.png" data-image-key="S5e33_Magic_Man_makes_a_portal.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic Man makes a portal.png (1.7 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic Man makes a portal" data-image-name="S5e33 Magic Man makes a portal.png" data-image-key="S5e33_Magic_Man_makes_a_portal.png" data-src="http://img3.wikia.nocookie.net/__cb20140329164722/adventuretimewithfinnandjake/images/thumb/8/8a/S5e33_Magic_Man_makes_a_portal.png/185px-S5e33_Magic_Man_makes_a_portal.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_MM_stealing_Jake-27s_sandwich-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_MM_stealing_Jake%27s_sandwich.png" title="S5e33 MM stealing Jake&#39;s sandwich.png (731 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20131012183133/adventuretimewithfinnandjake/images/thumb/d/da/S5e33_MM_stealing_Jake%27s_sandwich.png/185px-S5e33_MM_stealing_Jake%27s_sandwich.png" title="S5e33 MM stealing Jake&#39;s sandwich.png (731 KB)" class="thumbimage" alt="S5e33 MM stealing Jake&#39;s sandwich" data-image-name="S5e33 MM stealing Jake&#39;s sandwich.png" data-image-key="S5e33_MM_stealing_Jake%27s_sandwich.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 MM stealing Jake&#39;s sandwich.png (731 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 MM stealing Jake&#39;s sandwich" data-image-name="S5e33 MM stealing Jake&#39;s sandwich.png" data-image-key="S5e33_MM_stealing_Jake%27s_sandwich.png" data-src="http://img1.wikia.nocookie.net/__cb20131012183133/adventuretimewithfinnandjake/images/thumb/d/da/S5e33_MM_stealing_Jake%27s_sandwich.png/185px-S5e33_MM_stealing_Jake%27s_sandwich.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Magic Man stealing Jake's Sandwich</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_MM_breathing_on_Jake-27s_sandwich-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_MM_breathing_on_Jake%27s_sandwich.png" title="S5e33 MM breathing on Jake&#39;s sandwich.png (775 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20131012183223/adventuretimewithfinnandjake/images/thumb/5/5c/S5e33_MM_breathing_on_Jake%27s_sandwich.png/185px-S5e33_MM_breathing_on_Jake%27s_sandwich.png" title="S5e33 MM breathing on Jake&#39;s sandwich.png (775 KB)" class="thumbimage" alt="S5e33 MM breathing on Jake&#39;s sandwich" data-image-name="S5e33 MM breathing on Jake&#39;s sandwich.png" data-image-key="S5e33_MM_breathing_on_Jake%27s_sandwich.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 MM breathing on Jake&#39;s sandwich.png (775 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 MM breathing on Jake&#39;s sandwich" data-image-name="S5e33 MM breathing on Jake&#39;s sandwich.png" data-image-key="S5e33_MM_breathing_on_Jake%27s_sandwich.png" data-src="http://img3.wikia.nocookie.net/__cb20131012183223/adventuretimewithfinnandjake/images/thumb/5/5c/S5e33_MM_breathing_on_Jake%27s_sandwich.png/185px-S5e33_MM_breathing_on_Jake%27s_sandwich.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic3-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic3.png" title="S5e33 Magic3.png (1.76 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329170746/adventuretimewithfinnandjake/images/thumb/b/ba/S5e33_Magic3.png/185px-S5e33_Magic3.png" title="S5e33 Magic3.png (1.76 MB)" class="thumbimage" alt="S5e33 Magic3" data-image-name="S5e33 Magic3.png" data-image-key="S5e33_Magic3.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic3.png (1.76 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic3" data-image-name="S5e33 Magic3.png" data-image-key="S5e33_Magic3.png" data-src="http://img2.wikia.nocookie.net/__cb20140329170746/adventuretimewithfinnandjake/images/thumb/b/ba/S5e33_Magic3.png/185px-S5e33_Magic3.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic_Man_giving_riddle-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic_Man_giving_riddle.png" title="S5e33 Magic Man giving riddle.png (1.36 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20140329170744/adventuretimewithfinnandjake/images/thumb/8/81/S5e33_Magic_Man_giving_riddle.png/185px-S5e33_Magic_Man_giving_riddle.png" title="S5e33 Magic Man giving riddle.png (1.36 MB)" class="thumbimage" alt="S5e33 Magic Man giving riddle" data-image-name="S5e33 Magic Man giving riddle.png" data-image-key="S5e33_Magic_Man_giving_riddle.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic Man giving riddle.png (1.36 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic Man giving riddle" data-image-name="S5e33 Magic Man giving riddle.png" data-image-key="S5e33_Magic_Man_giving_riddle.png" data-src="http://img1.wikia.nocookie.net/__cb20140329170744/adventuretimewithfinnandjake/images/thumb/8/81/S5e33_Magic_Man_giving_riddle.png/185px-S5e33_Magic_Man_giving_riddle.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Magic Man's riddle</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Finn_and_Jake_looking_out_of_Tree_Fort-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png" title="S5e33 Finn and Jake looking out of Tree Fort.png (724 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329175545/adventuretimewithfinnandjake/images/thumb/c/c3/S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png/185px-S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png" title="S5e33 Finn and Jake looking out of Tree Fort.png (724 KB)" class="thumbimage" alt="S5e33 Finn and Jake looking out of Tree Fort" data-image-name="S5e33 Finn and Jake looking out of Tree Fort.png" data-image-key="S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Finn and Jake looking out of Tree Fort.png (724 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Finn and Jake looking out of Tree Fort" data-image-name="S5e33 Finn and Jake looking out of Tree Fort.png" data-image-key="S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png" data-src="http://img2.wikia.nocookie.net/__cb20140329175545/adventuretimewithfinnandjake/images/thumb/c/c3/S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png/185px-S5e33_Finn_and_Jake_looking_out_of_Tree_Fort.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic_Man_with_sandwich-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic_Man_with_sandwich.png" title="S5e33 Magic Man with sandwich.png (919 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329170744/adventuretimewithfinnandjake/images/thumb/f/f8/S5e33_Magic_Man_with_sandwich.png/185px-S5e33_Magic_Man_with_sandwich.png" title="S5e33 Magic Man with sandwich.png (919 KB)" class="thumbimage" alt="S5e33 Magic Man with sandwich" data-image-name="S5e33 Magic Man with sandwich.png" data-image-key="S5e33_Magic_Man_with_sandwich.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic Man with sandwich.png (919 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic Man with sandwich" data-image-name="S5e33 Magic Man with sandwich.png" data-image-key="S5e33_Magic_Man_with_sandwich.png" data-src="http://img2.wikia.nocookie.net/__cb20140329170744/adventuretimewithfinnandjake/images/thumb/f/f8/S5e33_Magic_Man_with_sandwich.png/185px-S5e33_Magic_Man_with_sandwich.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_PB_scanning_the_time_bubble-PNG" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5_e33_PB_scanning_the_time_bubble.PNG" title="S5 e33 PB scanning the time bubble.PNG (281 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130910164343/adventuretimewithfinnandjake/images/thumb/4/4e/S5_e33_PB_scanning_the_time_bubble.PNG/185px-S5_e33_PB_scanning_the_time_bubble.PNG" title="S5 e33 PB scanning the time bubble.PNG (281 KB)" class="thumbimage" alt="S5 e33 PB scanning the time bubble" data-image-name="S5 e33 PB scanning the time bubble.PNG" data-image-key="S5_e33_PB_scanning_the_time_bubble.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 PB scanning the time bubble.PNG (281 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 PB scanning the time bubble" data-image-name="S5 e33 PB scanning the time bubble.PNG" data-image-key="S5_e33_PB_scanning_the_time_bubble.PNG" data-src="http://img1.wikia.nocookie.net/__cb20130910164343/adventuretimewithfinnandjake/images/thumb/4/4e/S5_e33_PB_scanning_the_time_bubble.PNG/185px-S5_e33_PB_scanning_the_time_bubble.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_PB_explaining_to_Finn_about_her_plan-PNG" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5_e33_PB_explaining_to_Finn_about_her_plan.PNG" title="S5 e33 PB explaining to Finn about her plan.PNG (410 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130910164407/adventuretimewithfinnandjake/images/thumb/e/ed/S5_e33_PB_explaining_to_Finn_about_her_plan.PNG/185px-S5_e33_PB_explaining_to_Finn_about_her_plan.PNG" title="S5 e33 PB explaining to Finn about her plan.PNG (410 KB)" class="thumbimage" alt="S5 e33 PB explaining to Finn about her plan" data-image-name="S5 e33 PB explaining to Finn about her plan.PNG" data-image-key="S5_e33_PB_explaining_to_Finn_about_her_plan.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 PB explaining to Finn about her plan.PNG (410 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 PB explaining to Finn about her plan" data-image-name="S5 e33 PB explaining to Finn about her plan.PNG" data-image-key="S5_e33_PB_explaining_to_Finn_about_her_plan.PNG" data-src="http://img1.wikia.nocookie.net/__cb20130910164407/adventuretimewithfinnandjake/images/thumb/e/ed/S5_e33_PB_explaining_to_Finn_about_her_plan.PNG/185px-S5_e33_PB_explaining_to_Finn_about_her_plan.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_PB_holding_the_molasses_warmer-PNG" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5_e33_PB_holding_the_molasses_warmer.PNG" title="S5 e33 PB holding the molasses warmer.PNG (369 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20130910164426/adventuretimewithfinnandjake/images/thumb/6/60/S5_e33_PB_holding_the_molasses_warmer.PNG/185px-S5_e33_PB_holding_the_molasses_warmer.PNG" title="S5 e33 PB holding the molasses warmer.PNG (369 KB)" class="thumbimage" alt="S5 e33 PB holding the molasses warmer" data-image-name="S5 e33 PB holding the molasses warmer.PNG" data-image-key="S5_e33_PB_holding_the_molasses_warmer.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 PB holding the molasses warmer.PNG (369 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 PB holding the molasses warmer" data-image-name="S5 e33 PB holding the molasses warmer.PNG" data-image-key="S5_e33_PB_holding_the_molasses_warmer.PNG" data-src="http://img2.wikia.nocookie.net/__cb20130910164426/adventuretimewithfinnandjake/images/thumb/6/60/S5_e33_PB_holding_the_molasses_warmer.PNG/185px-S5_e33_PB_holding_the_molasses_warmer.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_PB_turning_the_machine_on-PNG" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5_e33_PB_turning_the_machine_on.PNG" title="S5 e33 PB turning the machine on.PNG (222 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130910164444/adventuretimewithfinnandjake/images/thumb/8/80/S5_e33_PB_turning_the_machine_on.PNG/185px-S5_e33_PB_turning_the_machine_on.PNG" title="S5 e33 PB turning the machine on.PNG (222 KB)" class="thumbimage" alt="S5 e33 PB turning the machine on" data-image-name="S5 e33 PB turning the machine on.PNG" data-image-key="S5_e33_PB_turning_the_machine_on.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 PB turning the machine on.PNG (222 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 PB turning the machine on" data-image-name="S5 e33 PB turning the machine on.PNG" data-image-key="S5_e33_PB_turning_the_machine_on.PNG" data-src="http://img1.wikia.nocookie.net/__cb20130910164444/adventuretimewithfinnandjake/images/thumb/8/80/S5_e33_PB_turning_the_machine_on.PNG/185px-S5_e33_PB_turning_the_machine_on.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_bear_head_projectile-PNG" style="position: relative; height:100px; width:185px; top:2px;"><a class="image lightbox" href="/wiki/File:S5_e33_bear_head_projectile.PNG" title="S5 e33 bear head projectile.PNG (314 KB)" style="height:100px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20130910164504/adventuretimewithfinnandjake/images/thumb/8/81/S5_e33_bear_head_projectile.PNG/185px-S5_e33_bear_head_projectile.PNG" title="S5 e33 bear head projectile.PNG (314 KB)" class="thumbimage" alt="S5 e33 bear head projectile" data-image-name="S5 e33 bear head projectile.PNG" data-image-key="S5_e33_bear_head_projectile.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 bear head projectile.PNG (314 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 bear head projectile" data-image-name="S5 e33 bear head projectile.PNG" data-image-key="S5_e33_bear_head_projectile.PNG" data-src="http://img2.wikia.nocookie.net/__cb20130910164504/adventuretimewithfinnandjake/images/thumb/8/81/S5_e33_bear_head_projectile.PNG/185px-S5_e33_bear_head_projectile.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_BMO_slowed_down-PNG" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5_e33_BMO_slowed_down.PNG" title="S5 e33 BMO slowed down.PNG (244 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20130910164522/adventuretimewithfinnandjake/images/thumb/d/df/S5_e33_BMO_slowed_down.PNG/185px-S5_e33_BMO_slowed_down.PNG" title="S5 e33 BMO slowed down.PNG (244 KB)" class="thumbimage" alt="S5 e33 BMO slowed down" data-image-name="S5 e33 BMO slowed down.PNG" data-image-key="S5_e33_BMO_slowed_down.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 BMO slowed down.PNG (244 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 BMO slowed down" data-image-name="S5 e33 BMO slowed down.PNG" data-image-key="S5_e33_BMO_slowed_down.PNG" data-src="http://img2.wikia.nocookie.net/__cb20130910164522/adventuretimewithfinnandjake/images/thumb/d/df/S5_e33_BMO_slowed_down.PNG/185px-S5_e33_BMO_slowed_down.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_the_time_ball-PNG" style="position: relative; height:99px; width:185px; top:2.5px;"><a class="image lightbox" href="/wiki/File:S5_e33_the_time_ball.PNG" title="S5 e33 the time ball.PNG (281 KB)" style="height:99px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130910164545/adventuretimewithfinnandjake/images/thumb/1/19/S5_e33_the_time_ball.PNG/185px-S5_e33_the_time_ball.PNG" title="S5 e33 the time ball.PNG (281 KB)" class="thumbimage" alt="S5 e33 the time ball" data-image-name="S5 e33 the time ball.PNG" data-image-key="S5_e33_the_time_ball.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 the time ball.PNG (281 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 the time ball" data-image-name="S5 e33 the time ball.PNG" data-image-key="S5_e33_the_time_ball.PNG" data-src="http://img1.wikia.nocookie.net/__cb20130910164545/adventuretimewithfinnandjake/images/thumb/1/19/S5_e33_the_time_ball.PNG/185px-S5_e33_the_time_ball.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_PB_calling_Marceline-PNG" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5_e33_PB_calling_Marceline.PNG" title="S5 e33 PB calling Marceline.PNG (376 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20130910164716/adventuretimewithfinnandjake/images/thumb/5/55/S5_e33_PB_calling_Marceline.PNG/185px-S5_e33_PB_calling_Marceline.PNG" title="S5 e33 PB calling Marceline.PNG (376 KB)" class="thumbimage" alt="S5 e33 PB calling Marceline" data-image-name="S5 e33 PB calling Marceline.PNG" data-image-key="S5_e33_PB_calling_Marceline.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 PB calling Marceline.PNG (376 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 PB calling Marceline" data-image-name="S5 e33 PB calling Marceline.PNG" data-image-key="S5_e33_PB_calling_Marceline.PNG" data-src="http://img4.wikia.nocookie.net/__cb20130910164716/adventuretimewithfinnandjake/images/thumb/5/55/S5_e33_PB_calling_Marceline.PNG/185px-S5_e33_PB_calling_Marceline.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_comes_back-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_comes_back.png" title="S5e33 Jake comes back.png (582 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20130911100506/adventuretimewithfinnandjake/images/thumb/e/e1/S5e33_Jake_comes_back.png/185px-S5e33_Jake_comes_back.png" title="S5e33 Jake comes back.png (582 KB)" class="thumbimage" alt="S5e33 Jake comes back" data-image-name="S5e33 Jake comes back.png" data-image-key="S5e33_Jake_comes_back.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake comes back.png (582 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake comes back" data-image-name="S5e33 Jake comes back.png" data-image-key="S5e33_Jake_comes_back.png" data-src="http://img1.wikia.nocookie.net/__cb20130911100506/adventuretimewithfinnandjake/images/thumb/e/e1/S5e33_Jake_comes_back.png/185px-S5e33_Jake_comes_back.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_cheering_up_Jake-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_cheering_up_Jake.png" title="S5e33 cheering up Jake.png (486 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20130911100024/adventuretimewithfinnandjake/images/thumb/7/7b/S5e33_cheering_up_Jake.png/185px-S5e33_cheering_up_Jake.png" title="S5e33 cheering up Jake.png (486 KB)" class="thumbimage" alt="S5e33 cheering up Jake" data-image-name="S5e33 cheering up Jake.png" data-image-key="S5e33_cheering_up_Jake.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 cheering up Jake.png (486 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 cheering up Jake" data-image-name="S5e33 cheering up Jake.png" data-image-key="S5e33_cheering_up_Jake.png" data-src="http://img3.wikia.nocookie.net/__cb20130911100024/adventuretimewithfinnandjake/images/thumb/7/7b/S5e33_cheering_up_Jake.png/185px-S5e33_cheering_up_Jake.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_Marceline_in_demon_form-PNG" style="position: relative; height:99px; width:185px; top:2.5px;"><a class="image lightbox" href="/wiki/File:S5_e33_Marceline_in_demon_form.PNG" title="S5 e33 Marceline in demon form.PNG (381 KB)" style="height:99px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20130910164631/adventuretimewithfinnandjake/images/thumb/3/35/S5_e33_Marceline_in_demon_form.PNG/185px-S5_e33_Marceline_in_demon_form.PNG" title="S5 e33 Marceline in demon form.PNG (381 KB)" class="thumbimage" alt="S5 e33 Marceline in demon form" data-image-name="S5 e33 Marceline in demon form.PNG" data-image-key="S5_e33_Marceline_in_demon_form.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 Marceline in demon form.PNG (381 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 Marceline in demon form" data-image-name="S5 e33 Marceline in demon form.PNG" data-image-key="S5_e33_Marceline_in_demon_form.PNG" data-src="http://img2.wikia.nocookie.net/__cb20130910164631/adventuretimewithfinnandjake/images/thumb/3/35/S5_e33_Marceline_in_demon_form.PNG/185px-S5_e33_Marceline_in_demon_form.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5_e33_Marceline-27s_plan_fails-PNG" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5_e33_Marceline%27s_plan_fails.PNG" title="S5 e33 Marceline&#39;s plan fails.PNG (608 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img1.wikia.nocookie.net/__cb20131022053357/adventuretimewithfinnandjake/images/thumb/8/80/S5_e33_Marceline%27s_plan_fails.PNG/185px-S5_e33_Marceline%27s_plan_fails.PNG" title="S5 e33 Marceline&#39;s plan fails.PNG (608 KB)" class="thumbimage" alt="S5 e33 Marceline&#39;s plan fails" data-image-name="S5 e33 Marceline&#39;s plan fails.PNG" data-image-key="S5_e33_Marceline%27s_plan_fails.PNG"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5 e33 Marceline&#39;s plan fails.PNG (608 KB)" class="thumbimage lzy lzyPlcHld" alt="S5 e33 Marceline&#39;s plan fails" data-image-name="S5 e33 Marceline&#39;s plan fails.PNG" data-image-key="S5_e33_Marceline%27s_plan_fails.PNG" data-src="http://img1.wikia.nocookie.net/__cb20131022053357/adventuretimewithfinnandjake/images/thumb/8/80/S5_e33_Marceline%27s_plan_fails.PNG/185px-S5_e33_Marceline%27s_plan_fails.PNG" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_inside_the_bubble-png" style="position: relative; height:102px; width:185px; top:1px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_inside_the_bubble.png" title="S5e33 Jake inside the bubble.png (356 KB)" style="height:102px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20130911100551/adventuretimewithfinnandjake/images/thumb/a/ae/S5e33_Jake_inside_the_bubble.png/185px-S5e33_Jake_inside_the_bubble.png" title="S5e33 Jake inside the bubble.png (356 KB)" class="thumbimage" alt="S5e33 Jake inside the bubble" data-image-name="S5e33 Jake inside the bubble.png" data-image-key="S5e33_Jake_inside_the_bubble.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake inside the bubble.png (356 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake inside the bubble" data-image-name="S5e33 Jake inside the bubble.png" data-image-key="S5e33_Jake_inside_the_bubble.png" data-src="http://img3.wikia.nocookie.net/__cb20130911100551/adventuretimewithfinnandjake/images/thumb/a/ae/S5e33_Jake_inside_the_bubble.png/185px-S5e33_Jake_inside_the_bubble.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jakesadface-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Jakesadface.png" title="S5e33 Jakesadface.png (1.37 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329180037/adventuretimewithfinnandjake/images/thumb/3/39/S5e33_Jakesadface.png/185px-S5e33_Jakesadface.png" title="S5e33 Jakesadface.png (1.37 MB)" class="thumbimage" alt="S5e33 Jakesadface" data-image-name="S5e33 Jakesadface.png" data-image-key="S5e33_Jakesadface.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jakesadface.png (1.37 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jakesadface" data-image-name="S5e33 Jakesadface.png" data-image-key="S5e33_Jakesadface.png" data-src="http://img2.wikia.nocookie.net/__cb20140329180037/adventuretimewithfinnandjake/images/thumb/3/39/S5e33_Jakesadface.png/185px-S5e33_Jakesadface.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Magic_Man_wide-eyed-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Magic_Man_wide-eyed.png" title="S5e33 Magic Man wide-eyed.png (602 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329170748/adventuretimewithfinnandjake/images/thumb/4/43/S5e33_Magic_Man_wide-eyed.png/185px-S5e33_Magic_Man_wide-eyed.png" title="S5e33 Magic Man wide-eyed.png (602 KB)" class="thumbimage" alt="S5e33 Magic Man wide-eyed" data-image-name="S5e33 Magic Man wide-eyed.png" data-image-key="S5e33_Magic_Man_wide-eyed.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Magic Man wide-eyed.png (602 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Magic Man wide-eyed" data-image-name="S5e33 Magic Man wide-eyed.png" data-image-key="S5e33_Magic_Man_wide-eyed.png" data-src="http://img2.wikia.nocookie.net/__cb20140329170748/adventuretimewithfinnandjake/images/thumb/4/43/S5e33_Magic_Man_wide-eyed.png/185px-S5e33_Magic_Man_wide-eyed.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake-27s_funeral-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake%27s_funeral.png" title="S5e33 Jake&#39;s funeral.png (469 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img4.wikia.nocookie.net/__cb20131210192453/adventuretimewithfinnandjake/images/thumb/c/cb/S5e33_Jake%27s_funeral.png/185px-S5e33_Jake%27s_funeral.png" title="S5e33 Jake&#39;s funeral.png (469 KB)" class="thumbimage" alt="S5e33 Jake&#39;s funeral" data-image-name="S5e33 Jake&#39;s funeral.png" data-image-key="S5e33_Jake%27s_funeral.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake&#39;s funeral.png (469 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake&#39;s funeral" data-image-name="S5e33 Jake&#39;s funeral.png" data-image-key="S5e33_Jake%27s_funeral.png" data-src="http://img4.wikia.nocookie.net/__cb20131210192453/adventuretimewithfinnandjake/images/thumb/c/cb/S5e33_Jake%27s_funeral.png/185px-S5e33_Jake%27s_funeral.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_thinking_angry_thoughts-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_thinking_angry_thoughts.png" title="S5e33 Jake thinking angry thoughts.png (687 KB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img3.wikia.nocookie.net/__cb20140329180207/adventuretimewithfinnandjake/images/thumb/1/13/S5e33_Jake_thinking_angry_thoughts.png/185px-S5e33_Jake_thinking_angry_thoughts.png" title="S5e33 Jake thinking angry thoughts.png (687 KB)" class="thumbimage" alt="S5e33 Jake thinking angry thoughts" data-image-name="S5e33 Jake thinking angry thoughts.png" data-image-key="S5e33_Jake_thinking_angry_thoughts.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake thinking angry thoughts.png (687 KB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake thinking angry thoughts" data-image-name="S5e33 Jake thinking angry thoughts.png" data-image-key="S5e33_Jake_thinking_angry_thoughts.png" data-src="http://img3.wikia.nocookie.net/__cb20140329180207/adventuretimewithfinnandjake/images/thumb/1/13/S5e33_Jake_thinking_angry_thoughts.png/185px-S5e33_Jake_thinking_angry_thoughts.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:106px;"><div class="gallery-image-wrapper accent" id="S5e33_Jake_punches_Magic_Man-png" style="position: relative; height:104px; width:185px;"><a class="image lightbox" href="/wiki/File:S5e33_Jake_punches_Magic_Man.png" title="S5e33 Jake punches Magic Man.png (1.58 MB)" style="height:104px; width:185px;"><noscript><img style="" src="http://img2.wikia.nocookie.net/__cb20140329170747/adventuretimewithfinnandjake/images/thumb/2/2d/S5e33_Jake_punches_Magic_Man.png/185px-S5e33_Jake_punches_Magic_Man.png" title="S5e33 Jake punches Magic Man.png (1.58 MB)" class="thumbimage" alt="S5e33 Jake punches Magic Man" data-image-name="S5e33 Jake punches Magic Man.png" data-image-key="S5e33_Jake_punches_Magic_Man.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="S5e33 Jake punches Magic Man.png (1.58 MB)" class="thumbimage lzy lzyPlcHld" alt="S5e33 Jake punches Magic Man" data-image-name="S5e33 Jake punches Magic Man.png" data-image-key="S5e33_Jake_punches_Magic_Man.png" data-src="http://img2.wikia.nocookie.net/__cb20140329170747/adventuretimewithfinnandjake/images/thumb/2/2d/S5e33_Jake_punches_Magic_Man.png/185px-S5e33_Jake_punches_Magic_Man.png" onload="if(typeof ImgLzy==&quot;object&quot;){ImgLzy.load(this)}"></a></div></div><div class="lightbox-caption" style="width:185px;">Another knuckle sandwich for Magic Man</div></div><br /><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="sprite photo" width="26" height="16" />Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images1.wikia.nocookie.net/__am/1430528109/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1430528109/sass/background-dynamic%3Dfalse%26background-image%3Dhttp%253A%252F%252Fimg2.wikia.nocookie.net%252F__cb20150313122834%252Fadventuretimewithfinnandjake%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1900%26color-body%3D%252383c0e6%26color-body-middle%3D%252383c0e6%26color-buttons%3D%2523006cb0%26color-header%3D%25232878b6%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D92%26widthType%3D2/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small">
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://new.spring.me/#!/q/489972527775376285">http://new.spring.me/#!/q/489972527775376285</a></span>
+</li>
+<li id="cite_note-msntvtime-1"><a href="#cite_ref-msntvtime_1-0">↑</a> <span class="reference-text"><a rel="nofollow" class="external free exitstitial" href="http://tv.msn.com/tv/episode/adventure-time/time-sandwich/">http://tv.msn.com/tv/episode/adventure-time/time-sandwich/</a></span>
+</li></ol></div>
+<div style="clear:both"></div>
+<table class="navbox" cellspacing="0" style=";color:black; background-color:#BCD9E3; border:1px solid #1A5B70; width:100%;"><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;"><tr><th style="background-color:#1478BA;;color:white;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;background-color:#1478BA;;color:white;;border:none;; font-size:xx-small;"><a href="/wiki/Template:EpisodeNav" title="Template:EpisodeNav"><span title="View this template" style="background-color:#1478BA;;color:white;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/wiki/Template_talk:EpisodeNav" title="Template talk:EpisodeNav"><span title="Discuss this template" style="background-color:#1478BA;;color:white;;border:none;">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a  class="text" href="http://adventuretime.wikia.com/wiki/Template:EpisodeNav?action=edit"><span title="Edit this template" style="background-color:#1478BA;;color:white;;border:none;;">e</span></a></div></div><span class="" style="font-size:110%;"><a href="/wiki/List_of_episodes" title="List of episodes"><span style="color:white;">Episodes</span></a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Season 1</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Slumber_Party_Panic" title="Slumber Party Panic">Slumber Party Panic</a> •
+<a href="/wiki/Trouble_in_Lumpy_Space" title="Trouble in Lumpy Space">Trouble in Lumpy Space</a> •
+<a href="/wiki/Prisoners_of_Love" title="Prisoners of Love">Prisoners of Love</a> •
+<a href="/wiki/Tree_Trunks_(episode)" title="Tree Trunks (episode)">Tree Trunks</a> •
+<a href="/wiki/The_Enchiridion!_(episode)" title="The Enchiridion! (episode)">The Enchiridion!</a> •
+<a href="/wiki/The_Jiggler" title="The Jiggler">The Jiggler</a> •
+<a href="/wiki/Ricardio_the_Heart_Guy" title="Ricardio the Heart Guy">Ricardio the Heart Guy</a> •
+<a href="/wiki/Business_Time" title="Business Time">Business Time</a> •
+<a href="/wiki/My_Two_Favorite_People" title="My Two Favorite People">My Two Favorite People</a> •
+<a href="/wiki/Memories_of_Boom_Boom_Mountain" title="Memories of Boom Boom Mountain">Memories of Boom Boom Mountain</a> •
+<a href="/wiki/Wizard_(episode)" title="Wizard (episode)">Wizard</a> •
+<a href="/wiki/Evicted!" title="Evicted!">Evicted!</a> •
+<a href="/wiki/City_of_Thieves_(episode)" title="City of Thieves (episode)">City of Thieves</a> •
+<a href="/wiki/The_Witch%27s_Garden_(episode)" title="The Witch's Garden (episode)">The Witch's Garden</a> •
+<a href="/wiki/What_is_Life%3F" title="What is Life?">What is Life?</a> •
+<a href="/wiki/Ocean_of_Fear" title="Ocean of Fear">Ocean of Fear</a> •
+<a href="/wiki/When_Wedding_Bells_Thaw" title="When Wedding Bells Thaw">When Wedding Bells Thaw</a> •
+<a href="/wiki/Dungeon_(episode)" title="Dungeon (episode)">Dungeon</a> •
+<a href="/wiki/The_Duke" title="The Duke">The Duke</a> •
+<a href="/wiki/Freak_City_(episode)" title="Freak City (episode)">Freak City</a> •
+<a href="/wiki/Donny_(episode)" title="Donny (episode)">Donny</a> •
+<a href="/wiki/Henchman" title="Henchman">Henchman</a> •
+<a href="/wiki/Rainy_Day_Daydream" title="Rainy Day Daydream">Rainy Day Daydream</a> •
+<a href="/wiki/What_Have_You_Done%3F" title="What Have You Done?">What Have You Done?</a> •
+<a href="/wiki/His_Hero" title="His Hero">His Hero</a> •
+<a href="/wiki/Gut_Grinder_(episode)" title="Gut Grinder (episode)">Gut Grinder</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Season 2</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/It_Came_from_the_Nightosphere" title="It Came from the Nightosphere">It Came from the Nightosphere</a> •
+<a href="/wiki/The_Eyes" title="The Eyes">The Eyes</a> •
+<a href="/wiki/Loyalty_to_the_King" title="Loyalty to the King">Loyalty to the King</a> •
+<a href="/wiki/Blood_Under_the_Skin" title="Blood Under the Skin">Blood Under the Skin</a> •
+<a href="/wiki/Storytelling" title="Storytelling">Storytelling</a> •
+<a href="/wiki/Slow_Love" title="Slow Love">Slow Love</a> •
+<a href="/wiki/Power_Animal" title="Power Animal">Power Animal</a> •
+<a href="/wiki/Crystals_Have_Power" title="Crystals Have Power">Crystals Have Power</a> •
+<a href="/wiki/The_Other_Tarts" title="The Other Tarts">The Other Tarts</a> •
+<a href="/wiki/To_Cut_a_Woman%27s_Hair" title="To Cut a Woman's Hair">To Cut a Woman's Hair</a> •
+<a href="/wiki/The_Chamber_of_Frozen_Blades" title="The Chamber of Frozen Blades">The Chamber of Frozen Blades</a> •
+<a href="/wiki/Her_Parents" title="Her Parents">Her Parents</a> • 
+<a href="/wiki/The_Pods" title="The Pods">The Pods</a> •
+<a href="/wiki/The_Silent_King" title="The Silent King">The Silent King</a> •
+<a href="/wiki/The_Real_You" title="The Real You">The Real You</a> •
+<a href="/wiki/Guardians_of_Sunshine_(episode)" title="Guardians of Sunshine (episode)">Guardians of Sunshine</a> •
+<a href="/wiki/Death_in_Bloom" title="Death in Bloom">Death in Bloom</a> •
+<a href="/wiki/Susan_Strong_(episode)" title="Susan Strong (episode)">Susan Strong</a> •
+<a href="/wiki/Mystery_Train" title="Mystery Train">Mystery Train</a> •
+<a href="/wiki/Go_With_Me" title="Go With Me">Go With Me</a> •
+<a href="/wiki/Belly_of_the_Beast" title="Belly of the Beast">Belly of the Beast</a> •
+<a href="/wiki/The_Limit" title="The Limit">The Limit</a> •
+<a href="/wiki/Video_Makers" title="Video Makers">Video Makers</a> •
+<a href="/wiki/Heat_Signature_(episode)" title="Heat Signature (episode)">Heat Signature</a> •
+<a href="/wiki/Mortal_Folly" title="Mortal Folly">Mortal Folly</a> •
+<a href="/wiki/Mortal_Recoil" title="Mortal Recoil">Mortal Recoil</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Season 3</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Conquest_of_Cuteness" title="Conquest of Cuteness">Conquest of Cuteness</a> •
+<a href="/wiki/Morituri_Te_Salutamus" title="Morituri Te Salutamus">Morituri Te Salutamus</a> •
+<a href="/wiki/Memory_of_a_Memory" title="Memory of a Memory">Memory of a Memory</a> •
+<a href="/wiki/Hitman" title="Hitman">Hitman</a> •
+<a href="/wiki/Too_Young" title="Too Young">Too Young</a> •
+<a href="/wiki/The_Monster" title="The Monster">The Monster</a> •
+<a href="/wiki/Still" title="Still">Still</a> •
+<a href="/wiki/Wizard_Battle" title="Wizard Battle">Wizard Battle</a> •
+<a href="/wiki/Fionna_and_Cake" title="Fionna and Cake">Fionna and Cake</a> •
+<a href="/wiki/What_Was_Missing" title="What Was Missing">What Was Missing</a> •
+<a href="/wiki/Apple_Thief" title="Apple Thief">Apple Thief</a> •
+<a href="/wiki/The_Creeps" title="The Creeps">The Creeps</a> •
+<a href="/wiki/From_Bad_to_Worse" title="From Bad to Worse">From Bad to Worse</a> •
+<a href="/wiki/Beautopia" title="Beautopia">Beautopia</a> •
+<a href="/wiki/No_One_Can_Hear_You" title="No One Can Hear You">No One Can Hear You</a> •
+<a href="/wiki/Jake_vs._Me-Mow" title="Jake vs. Me-Mow">Jake vs. Me-Mow</a> •
+<a href="/wiki/Thank_You" title="Thank You">Thank You</a> •
+<a href="/wiki/The_New_Frontier" title="The New Frontier">The New Frontier</a> •
+<a href="/wiki/Holly_Jolly_Secrets_Part_I" title="Holly Jolly Secrets Part I">Holly Jolly Secrets Part I</a> • 
+<a href="/wiki/Holly_Jolly_Secrets_Part_II" title="Holly Jolly Secrets Part II">Holly Jolly Secrets Part II</a> •
+<a href="/wiki/Marceline%27s_Closet" title="Marceline's Closet">Marceline's Closet</a> •
+<a href="/wiki/Paper_Pete_(episode)" title="Paper Pete (episode)">Paper Pete</a> •
+<a href="/wiki/Another_Way" title="Another Way">Another Way</a> •
+<a href="/wiki/Ghost_Princess_(episode)" title="Ghost Princess (episode)">Ghost Princess</a> •
+<a href="/wiki/Dad%27s_Dungeon" title="Dad's Dungeon">Dad's Dungeon</a> •
+<a href="/wiki/Incendium" title="Incendium">Incendium</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Season 4</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Hot_to_the_Touch" title="Hot to the Touch">Hot to the Touch</a> •
+<a href="/wiki/Five_Short_Graybles" title="Five Short Graybles">Five Short Graybles</a> •
+<a href="/wiki/Web_Weirdos" title="Web Weirdos">Web Weirdos</a> •
+<a href="/wiki/Dream_of_Love" title="Dream of Love">Dream of Love</a> •
+<a href="/wiki/Return_to_the_Nightosphere" title="Return to the Nightosphere">Return to the Nightosphere</a> •
+<a href="/wiki/Daddy%27s_Little_Monster" title="Daddy's Little Monster">Daddy's Little Monster</a> •
+<a href="/wiki/In_Your_Footsteps" title="In Your Footsteps">In Your Footsteps</a> •
+<a href="/wiki/Hug_Wolf" title="Hug Wolf">Hug Wolf</a> •
+<a href="/wiki/Princess_Monster_Wife_(episode)" title="Princess Monster Wife (episode)">Princess Monster Wife</a> •
+<a href="/wiki/Goliad_(episode)" title="Goliad (episode)">Goliad</a> •
+<a href="/wiki/Beyond_this_Earthly_Realm" title="Beyond this Earthly Realm">Beyond this Earthly Realm</a> •
+<a href="/wiki/Gotcha!" title="Gotcha!">Gotcha!</a> •
+<a href="/wiki/Princess_Cookie" title="Princess Cookie">Princess Cookie</a> •
+<a href="/wiki/Card_Wars" title="Card Wars">Card Wars</a> •
+<a href="/wiki/Sons_of_Mars" title="Sons of Mars">Sons of Mars</a> •
+<a href="/wiki/Burning_Low" title="Burning Low">Burning Low</a> •
+<a href="/wiki/BMO_Noire" title="BMO Noire">BMO Noire</a> •
+<a href="/wiki/King_Worm" title="King Worm">King Worm</a> •
+<a href="/wiki/Lady_%26_Peebles" title="Lady &amp; Peebles">Lady &amp; Peebles</a> •
+<a href="/wiki/You_Made_Me" title="You Made Me">You Made Me</a> •
+<a href="/wiki/Who_Would_Win" title="Who Would Win">Who Would Win</a> •
+<a href="/wiki/Ignition_Point" title="Ignition Point">Ignition Point</a> •
+<a href="/wiki/The_Hard_Easy" title="The Hard Easy">The Hard Easy</a> • 
+<a href="/wiki/Reign_of_Gunters" title="Reign of Gunters">Reign of Gunters</a> •
+<a href="/wiki/I_Remember_You" title="I Remember You">I Remember You</a> •
+<a href="/wiki/The_Lich_(episode)" title="The Lich (episode)">The Lich</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Season 5</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Finn_the_Human_(episode)" title="Finn the Human (episode)">Finn the Human</a> •
+<a href="/wiki/Jake_the_Dog_(episode)" title="Jake the Dog (episode)">Jake the Dog</a> •
+<a href="/wiki/Five_More_Short_Graybles" title="Five More Short Graybles">Five More Short Graybles</a> •
+<a href="/wiki/Up_a_Tree" title="Up a Tree">Up a Tree</a> • 
+<a href="/wiki/All_the_Little_People" title="All the Little People">All the Little People</a> • 
+<a href="/wiki/Jake_the_Dad" title="Jake the Dad">Jake the Dad</a> • 
+<a href="/wiki/Davey" title="Davey">Davey</a> • 
+<a href="/wiki/Mystery_Dungeon" title="Mystery Dungeon">Mystery Dungeon</a> • 
+<a href="/wiki/All_Your_Fault" title="All Your Fault">All Your Fault</a> •
+<a href="/wiki/Little_Dude_(episode)" title="Little Dude (episode)">Little Dude</a> • 
+<a href="/wiki/Bad_Little_Boy" title="Bad Little Boy">Bad Little Boy</a> •
+<a href="/wiki/Vault_of_Bones" title="Vault of Bones">Vault of Bones</a> • 
+<a href="/wiki/The_Great_Bird_Man" title="The Great Bird Man">The Great Bird Man</a> • 
+<a href="/wiki/Simon_%26_Marcy" title="Simon &amp; Marcy">Simon &amp; Marcy</a> • 
+<a href="/wiki/A_Glitch_is_a_Glitch" title="A Glitch is a Glitch">A Glitch is a Glitch</a> • 
+<a href="/wiki/Puhoy" title="Puhoy">Puhoy</a> •
+<a href="/wiki/BMO_Lost" title="BMO Lost">BMO Lost</a> •
+<a href="/wiki/Princess_Potluck" title="Princess Potluck">Princess Potluck</a> •  
+<a href="/wiki/James_Baxter_the_Horse_(episode)" title="James Baxter the Horse (episode)">James Baxter the Horse</a> • 
+<a href="/wiki/Shh!" title="Shh!">Shh!</a> • 
+<a href="/wiki/The_Suitor" title="The Suitor">The Suitor</a> • 
+<a href="/wiki/The_Party%27s_Over,_Isla_de_Se%C3%B1orita" title="The Party's Over, Isla de Señorita">The Party's Over, Isla de Señorita</a> •
+<a href="/wiki/One_Last_Job" title="One Last Job">One Last Job</a> • 
+<a href="/wiki/Another_Five_More_Short_Graybles" title="Another Five More Short Graybles">Another Five More Short Graybles</a> •
+<a href="/wiki/Candy_Streets" title="Candy Streets">Candy Streets</a> • 
+<a href="/wiki/Wizards_Only,_Fools" title="Wizards Only, Fools">Wizards Only, Fools</a> • 
+<a href="/wiki/Jake_Suit" title="Jake Suit">Jake Suit</a> • 
+<a href="/wiki/Be_More" title="Be More">Be More</a> • 
+<a href="/wiki/Sky_Witch" title="Sky Witch">Sky Witch</a> • 
+<a href="/wiki/Frost_%26_Fire" title="Frost &amp; Fire">Frost &amp; Fire</a> • 
+<a href="/wiki/Too_Old" title="Too Old">Too Old</a> • 
+<a href="/wiki/Earth_%26_Water" title="Earth &amp; Water">Earth &amp; Water</a> • 
+<strong class="selflink">Time Sandwich</strong> •
+<a href="/wiki/The_Vault" title="The Vault">The Vault</a> •
+<a href="/wiki/Love_Games" title="Love Games">Love Games</a> •
+<a href="/wiki/Dungeon_Train_(episode)" title="Dungeon Train (episode)">Dungeon Train</a> •
+<a href="/wiki/Box_Prince_(episode)" title="Box Prince (episode)">Box Prince</a> •
+<a href="/wiki/Red_Starved" title="Red Starved">Red Starved</a> •
+<a href="/wiki/We_Fixed_a_Truck" title="We Fixed a Truck">We Fixed a Truck</a> •
+<a href="/wiki/Play_Date" title="Play Date">Play Date</a> •
+<a href="/wiki/The_Pit" title="The Pit">The Pit</a> •
+<a href="/wiki/James" title="James">James</a> •
+<a href="/wiki/Root_Beer_Guy" title="Root Beer Guy">Root Beer Guy</a> •
+<a href="/wiki/Apple_Wedding" title="Apple Wedding">Apple Wedding</a> •
+<a href="/wiki/Blade_of_Grass" title="Blade of Grass">Blade of Grass</a> •
+<a href="/wiki/Rattleballs" title="Rattleballs">Rattleballs</a> •
+<a href="/wiki/The_Red_Throne" title="The Red Throne">The Red Throne</a> •
+<a href="/wiki/Betty_(episode)" title="Betty (episode)">Betty</a> •
+<a href="/wiki/Bad_Timing" title="Bad Timing">Bad Timing</a> •
+<a href="/wiki/Lemonhope_Part_1" title="Lemonhope Part 1">Lemonhope Part 1</a> •
+<a href="/wiki/Lemonhope_Part_2" title="Lemonhope Part 2">Lemonhope Part 2</a> •
+<a href="/wiki/Billy%27s_Bucket_List" title="Billy's Bucket List">Billy's Bucket List</a> 
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Season 6</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Wake_Up" title="Wake Up">Wake Up</a> •
+<a href="/wiki/Escape_from_the_Citadel" title="Escape from the Citadel">Escape from the Citadel</a> •
+<a href="/wiki/James_II" title="James II">James II</a> •
+<a href="/wiki/The_Tower" title="The Tower">The Tower</a> •
+<a href="/wiki/Sad_Face" title="Sad Face">Sad Face</a> •
+<a href="/wiki/Breezy" title="Breezy">Breezy</a> •
+<a href="/wiki/Food_Chain" title="Food Chain">Food Chain</a> •
+<a href="/wiki/Furniture_%26_Meat" title="Furniture &amp; Meat">Furniture &amp; Meat</a>  •
+<a href="/wiki/The_Prince_Who_Wanted_Everything" title="The Prince Who Wanted Everything">The Prince Who Wanted Everything</a>  •
+<a href="/wiki/Something_Big" title="Something Big">Something Big</a>  •
+<a href="/wiki/Little_Brother" title="Little Brother">Little Brother</a> •
+<a href="/wiki/Ocarina" title="Ocarina">Ocarina</a> •
+<a href="/wiki/Thanks_for_the_Crabapples,_Giuseppe" title="Thanks for the Crabapples, Giuseppe">Thanks for the Crabapples, Giuseppe</a> •
+<a href="/wiki/Princess_Day" title="Princess Day">Princess Day</a> •
+<a href="/wiki/Nemesis" title="Nemesis">Nemesis</a> •
+<a href="/wiki/Joshua_and_Margaret_Investigations" title="Joshua and Margaret Investigations">Joshua and Margaret Investigations</a> •
+<a href="/wiki/Ghost_Fly" title="Ghost Fly">Ghost Fly</a> •
+<a href="/wiki/Everything%27s_Jake" title="Everything's Jake">Everything's Jake</a> •
+<a href="/wiki/Is_That_You%3F" title="Is That You?">Is That You?</a> •
+<a href="/wiki/Jake_The_Brick" title="Jake The Brick">Jake The Brick</a> •
+<a href="/wiki/Dentist" title="Dentist">Dentist</a> •
+<a href="/wiki/The_Cooler" title="The Cooler">The Cooler</a> •
+<a href="/wiki/The_Pajama_War" title="The Pajama War">The Pajama War</a> •
+<a href="/wiki/Evergreen" title="Evergreen">Evergreen</a> •
+<a href="/wiki/Astral_Plane_(episode)" title="Astral Plane (episode)">Astral Plane</a> •
+<a href="/wiki/Gold_Stars" title="Gold Stars">Gold Stars</a> •
+<a href="/wiki/The_Visitor" title="The Visitor">The Visitor</a> •
+<a href="/wiki/The_Mountain" title="The Mountain">The Mountain</a> •
+<a href="/wiki/Dark_Purple" title="Dark Purple">Dark Purple</a> •
+<a href="/wiki/The_Diary" title="The Diary">The Diary</a> •
+<a href="/wiki/Walnuts_%26_Rain" title="Walnuts &amp; Rain">Walnuts &amp; Rain</a> •
+<a href="/wiki/Friends_Forever" title="Friends Forever">Friends Forever</a> •
+<a href="/wiki/Jermaine_(episode)" title="Jermaine (episode)">Jermaine</a> •
+<a href="/wiki/Chips_and_Ice_Cream" title="Chips and Ice Cream">Chips and Ice Cream</a> •
+<a href="/wiki/Graybles_1000%2B" title="Graybles 1000+">Graybles 1000+</a> •
+<a href="/wiki/Hoots" title="Hoots">Hoots</a> •
+<a href="/wiki/Water_Park_Prank" title="Water Park Prank">Water Park Prank</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Scrapped episodes</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Brothers_in_Insomnia" title="Brothers in Insomnia">Brothers in Insomnia</a> •
+<a href="/wiki/The_Helmet_of_Thorogon" title="The Helmet of Thorogon">The Helmet of Thorogon</a> •
+<a href="/wiki/The_Glorriors" title="The Glorriors">The Glorriors</a> •
+<a href="/wiki/Diamond_Jim" title="Diamond Jim">Diamond Jim</a> •
+<a href="/wiki/Jake-Less" title="Jake-Less">Jake-Less</a>
+</p>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style="background-color:#1478BA;;color:white; font-size:85%; width:auto;;">Other</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;border:0px none; font-size:85%; padding-left:4px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><div>
+<p><a href="/wiki/Animated_short" title="Animated short">Animated short</a> •
+<a href="/wiki/The_Wand" title="The Wand">The Wand</a>
+</p>
+</div></div></td></tr></table></td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 942/300000
+Post‐expand include size: 35591/2097152 bytes
+Template argument size: 15393/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key adventuretimewithfinnandjake:pcache:idhash:216968-0!*!0!!en!2!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://adventuretime.wikia.com/wiki/Time_Sandwich?oldid=694133">http://adventuretime.wikia.com/wiki/Time_Sandwich?oldid=694133</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Episodes" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Episodes" title="Category:Episodes">Episodes</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Season 5" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Season_5" title="Category:Season 5">Season 5</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+		<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				<nav class="WikiaArticleInterlang">
+	<h3>Languages: </h3>
+	<ul>
+			<li><a href="http://es.horadeaventura.wikia.com/wiki/Hora_de_Sandwich">Español</a></li>
+		</ul>
+</nav>
+
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+						<div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+					<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div id="LEFT_SKYSCRAPER_3" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+	
+			<section>
+	<div class="header-container">
+		<h1>Around Wikia's network</h1>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/24357" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Meet the cast and characters from Avengers Age of Ultron&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Movrj&quot;},{&quot;text&quot;:&quot;Meet the cast and characters from Avengers Age of Ultron&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Movrj&quot;},{&quot;text&quot;:&quot;Meet the cast and characters from Avengers Age of Ultron&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Movrj&quot;},{&quot;text&quot;:&quot;Meet the cast and characters from Avengers Age of Ultron&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Movrj&quot;},{&quot;text&quot;:&quot;Meet the cast and characters from Avengers Age of Ultron&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Movrj&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1430528109/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"adventuretimewithfinnandjake","kv_article_id":216968,"kv_wpage":"Time_Sandwich","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=18-24;age=18-34;age=teen;age=kids;gnre=cartoon;gnre=comedy;media=tv;tv=cn","kv_domain":"adventuretime.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://adventuretime.wikia.com/__load/-/cb%3D1430528109%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Time_Sandwich","wgTitle":"Time Sandwich","wgCurRevisionId":694133,"wgArticleId":216968,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Episodes","Season 5"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Time_Sandwich","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"false","background-image":"http://img2.wikia.nocookie.net/__cb20150313122834/adventuretimewithfinnandjake/images/5/50/Wiki-background","background-image-height":"700","background-image-width":"1900","color-body":"#83c0e6","color-body-middle":"#83c0e6","color-buttons":"#006cb0","color-header":"#2878b6","color-links":"#006cb0","color-page":"#ffffff","page-opacity":"92","widthType":2},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Adventure Time with Finn and Jake Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1430528109/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1430528109/common","wgSitename":"Adventure Time Wiki","wgMWrevId":false,"wgRevisionId":694133,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Time_Sandwich","fbReturnToTitle":"Time_Sandwich","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":true,"interactiveMapsApiURL":"http://maps.wikia-services.com:80/api/v1","VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"wgOasisBreakpoints":false,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Time Sandwich"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-24357":0,"founderemails-edits-24357":0,"founderemails-views-digest-24357":0,"founderemails-complete-digest-24357":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1000":false,"searchNs1010":false,"searchNs1020":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: adventuretimewithfinnandjake:resourceloader:filter:minify-js:7:ade4dc8c36d6e5d1f18522956fdbbb47 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1430528109/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,wikia_maps_contribution_button_create_map_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1430528109/group/-/videos_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1430528109/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1430528109/group/-/wikia_in_your_lang_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1430528109.711441.78406"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1430528109/group/-/monetization_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1430528109/group/-/global_navigation_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1430528109/group/-/page_share_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1430528109/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://adventuretime.wikia.com/__load/-/cb%3D1430528109%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://adventuretime.wikia.com/__load/-/cb%3D1430528109%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type='text/javascript'>
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script src="http://slot1.images1.wikia.nocookie.net/__am/1430528109/group/-/facebook_client_xfbml_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModuleNoBreakpoints.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/share.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+
+
+
+</html>

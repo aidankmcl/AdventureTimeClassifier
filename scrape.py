@@ -9,6 +9,51 @@ import unicodedata
 
 from bs4 import BeautifulSoup
 
+
+# # Helpers # #
+def ununicode(unicode_string):
+    "For handling intermittent Korean"
+    return unicodedata.normalize('NFKD', unicode_string).encode('ascii', 'ignore')
+
+
+def index_character(text, character):
+    "This is for getting all indices rather than just the first encounter"
+    return [i for i, letter in enumerate(text) if letter == character]
+
+
+def filter_repeats(links):
+    seen = set()
+    seen_add = seen.add
+    return [link for link in links if not (link in seen or seen_add(link))]
+
+
+def clean(line):
+    """
+    There are 2 tricky bits about cleaning up the transcripts
+    which are:
+        1. Lady Rainicorn's speech is Korean and
+        needs to be encoded as ascii while the translation is
+        Surrounded by ("quotes and parenthesis")
+        2. Character [actions inside brackets] are
+        sprinkled throughout, and we don't want those.
+    I'm first cutting out [actions] and then stripping
+    quotation marks and parenthesis for ("translated text").
+    """
+
+    line = ununicode(line)
+    starts = index_character(line, '[')
+    ends = index_character(line, ']')
+    # Goes through and preserves errthang outside [actions].
+    for placeholder_start, placeholder_end in zip(starts, ends):
+        start = line.find('[') # Have to follow the updated indices in instances of multiple [action] \n
+        end = line.find(']')   # statements. I feel this isn't the most elegant but it is scraping after all.
+        line = ''.join([line[0:start], line[end+1:]]) # chunk by chunk baby
+
+    # Translating to 'None' strips all occurences of undesired characters, and it's faster than re!
+    line = line.translate(None, '("")\n~\t\r')
+    return line
+
+
 class Scraper:
     "There's magic in these words"
 
@@ -16,47 +61,6 @@ class Scraper:
         print "Mathematical!"
         self.base_url = 'http://adventuretime.wikia.com'
         self.urls = []
-
-    # # Helpers # #
-    def ununicode(unicode_string):
-        "For handling intermittent Korean"
-        return unicodedata.normalize('NFKD', unicode_string).encode('ascii','ignore')
-
-    def index_character(text, character):
-        "This is for getting all indices rather than just the first encounter"
-        return [i for i, letter in enumerate(text) if letter == character]
-
-    def filter_repeats(links):
-        seen = set()
-        seen_add = seen.add
-        return [ link for link in links if not (link in seen or seen_add(link))]
-
-    def clean(line):
-        """
-        There are 2 tricky bits about cleaning up the transcripts
-        which are:
-            1. Lady Rainicorn's speech is Korean and
-            needs to be encoded as ascii while the translation is 
-            Surrounded by ("quotes and parenthesis")
-            2. Character [actions inside brackets] are
-            sprinkled throughout, and we don't want those.
-        I'm first cutting out [actions] and then stripping 
-        quotation marks and parenthesis for ("translated text").
-        """
-
-        line = ununicode(line)
-        starts = index_character(line, '[')
-        ends = index_character(line, ']')
-        # Goes through and preserves errthang outside [actions].
-        for placeholder_start, placeholder_end in zip(starts, ends): 
-            start = line.find('[') # Have to follow the updated indices in instances of multiple [action] \n
-            end = line.find(']')   # statements. I feel this isn't the most elegant but it is scraping after all.
-            line = ''.join([line[0:start], line[end+1:]]) # chunk by chunk baby
-        
-        # Translating to 'None' strips all occurences of undesired characters, and it's way faster than re!
-        line = line.translate(None, '("")\n~\t\r')
-        return line
-
 
     # # Main # #
     def get_urls(self):
@@ -70,21 +74,20 @@ class Scraper:
             tail = episode_row.find_all('td')[1].find('a')['href']
             self.urls.append(self.base_url+tail)
 
-        print self.urls
-        # goes through every href and only gets links with '/Transcript'
-        # urls = [self.base_url+link.get('href') for link in links
-        #     if link.get('href') != None and '/Transcript' in link.get('href')]
-        # urls.sort()
-        # return filter_repeats(urls)
+        return self.urls
 
-    def get_lines(self, url):
+    def get_lines_from_url(self, url):
         "This accesses all the <dd> tags (which contain script lines). Luh u bs4"
 
         page = requests.get(url).content
         soup = BeautifulSoup(page, 'lxml')
+        title = soup.find('div', 'header-container').find('h1').text.split('/')[0]
         # clean works the stripping magic. It's all about the stripping
-        lines = [clean(line.text) for line in soup.find_all('dd') if ':' in line.text and line.text != None]
-        return lines
+        lines = []
+        for line in soup.find_all('dd'):  # was a nasty 1 line list comp
+            if ':' in line.text and line.text is not None:
+                lines.append(ununicode(line.text).replace('\n', ''))
+        return (title, lines)
 
     def chunk_to_dict(self, episode_chunk):
         """
@@ -106,30 +109,28 @@ class Scraper:
                 continue
             if '/' in name:
                 name = name[0:name.find('/')]
-            if name == "Pen": name = "Finn"
-            if name == "Lich": name = "The Lich"
+            if name == "Pen":
+                name = "Finn"
+            if name == "Lich":
+                name = "The Lich"
             if re.search('[a-zA-Z]', script) != None:
                 names.setdefault(name, []).append(script)
 
         return names
 
-    def write_episode(self, episode_dict):
-        "For writing lines out to files corresponding to speaker."
-
+    def write_lines_by_character(self, episode_dict):
         for name in ep_dict.keys():
             with open('raw-data/'+name+'.txt', 'a') as Ooo:
                 Ooo.write('\n'.join(ep_dict[name]))
-        return
+
+    def write_lines_by_episode(self, index, title, episode_line_list):
+        with open('episodes/'+str(index)+'::'+title, 'w') as episode_file:
+            [episode_file.write(line+'\n') for line in episode_line_list]
 
 
 if __name__ == '__main__':
     AT = Scraper()
-
     urls = AT.get_urls()
-    # for i, url in enumerate(urls):
-    #     episode = AT.get_lines(url)
-    #     ep_dict = AT.chunk_to_dict(episode)
-    #     AT.write_episode(ep_dict)
-    #     print i, url
-
-    print 'Slamacow!'
+    for index, url in enumerate(urls):
+        title, lines = AT.get_lines_from_url(url+'/Transcript')
+        AT.write_lines_by_episode(index, title, lines)
